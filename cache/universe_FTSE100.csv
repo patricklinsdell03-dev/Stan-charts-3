@@ -1,0 +1,101 @@
+raw_symbol,name,sector,index,market,ticker
+III,3i,Financial services,FTSE100,UK,III.L
+ABDN,Aberdeen Group,Financial Services,FTSE100,UK,ABDN.L
+ADM,Admiral Group,Insurance,FTSE100,UK,ADM.L
+AAF,Airtel Africa,Telecommunications services,FTSE100,UK,AAF.L
+ALW,Alliance Witan,Investment Trusts,FTSE100,UK,ALW.L
+AAL,Anglo American plc,Mining,FTSE100,UK,AAL.L
+ANTO,Antofagasta plc,Mining,FTSE100,UK,ANTO.L
+ABF,Associated British Foods,Food & tobacco,FTSE100,UK,ABF.L
+AZN,AstraZeneca,Pharmaceuticals & biotechnology,FTSE100,UK,AZN.L
+AUTO,Autotrader Group,Media,FTSE100,UK,AUTO.L
+AV,Aviva,Life insurance,FTSE100,UK,AV.L
+BAB,Babcock International,Aerospace & defence,FTSE100,UK,BAB.L
+BA,BAE Systems,Aerospace & defence,FTSE100,UK,BA.L
+BARC,Barclays,Banks,FTSE100,UK,BARC.L
+BTRW,Barratt Redrow,Household goods & home construction,FTSE100,UK,BTRW.L
+BEZ,Beazley,Insurance,FTSE100,UK,BEZ.L
+BP,BP,Oil & gas producers,FTSE100,UK,BP.L
+BATS,British American Tobacco,Tobacco,FTSE100,UK,BATS.L
+BLND,British Land,Real estate,FTSE100,UK,BLND.L
+BT.A,BT Group,Telecommunications services,FTSE100,UK,BT-A.L
+BNZL,Bunzl,Support services,FTSE100,UK,BNZL.L
+BRBY,Burberry Group,Personal goods,FTSE100,UK,BRBY.L
+CNA,Centrica,Multiline utilities,FTSE100,UK,CNA.L
+CCEP,Coca-Cola Europacific Partners,Beverages,FTSE100,UK,CCEP.L
+CCH,Coca-Cola HBC,Beverages,FTSE100,UK,CCH.L
+CPG,Compass Group,Support services,FTSE100,UK,CPG.L
+CCC,Computacenter,Software & Computer Services,FTSE100,UK,CCC.L
+CTEC,Convatec,Health care equipment & supplies,FTSE100,UK,CTEC.L
+CRDA,Croda International,Chemicals,FTSE100,UK,CRDA.L
+DCC,DCC Energy,Support services,FTSE100,UK,DCC.L
+DGE,Diageo,Beverages,FTSE100,UK,DGE.L
+DPLM,Diploma,Industrial Support services,FTSE100,UK,DPLM.L
+EDV,Endeavour Mining,Mining,FTSE100,UK,EDV.L
+ENT,Entain,Travel & leisure,FTSE100,UK,ENT.L
+EXPN,Experian,Support services,FTSE100,UK,EXPN.L
+FCIT,F & C Investment Trust,Collective investments,FTSE100,UK,FCIT.L
+FRES,Fresnillo plc,Mining,FTSE100,UK,FRES.L
+GAW,Games Workshop,Leisure Goods,FTSE100,UK,GAW.L
+GLEN,Glencore,Mining,FTSE100,UK,GLEN.L
+GSK,GSK plc,Pharmaceuticals & biotechnology,FTSE100,UK,GSK.L
+HLN,Haleon,Pharmaceuticals & biotechnology,FTSE100,UK,HLN.L
+HLMA,Halma plc,Electronic equipment & parts,FTSE100,UK,HLMA.L
+HSX,Hiscox,Non-life Insurance,FTSE100,UK,HSX.L
+HWDN,Howdens Joinery,Homebuilding & construction supplies,FTSE100,UK,HWDN.L
+HSBA,HSBC,Banks,FTSE100,UK,HSBA.L
+ICG,ICG,Financial services,FTSE100,UK,ICG.L
+IGG,IG Group,Financial services,FTSE100,UK,IGG.L
+IHG,IHG Hotels & Resorts,Travel & leisure,FTSE100,UK,IHG.L
+IMI,IMI,Industrial engineering,FTSE100,UK,IMI.L
+IMB,Imperial Brands,Tobacco,FTSE100,UK,IMB.L
+INF,Informa,Media,FTSE100,UK,INF.L
+IAG,International Airlines Group,Travel & leisure,FTSE100,UK,IAG.L
+ITRK,Intertek,Support services,FTSE100,UK,ITRK.L
+INVP,Investec,Financial Services,FTSE100,UK,INVP.L
+JD,JD Sports,General retailers,FTSE100,UK,JD.L
+BGEO,Lion Finance Group,Banking Services,FTSE100,UK,BGEO.L
+KGF,Kingfisher plc,Retailers,FTSE100,UK,KGF.L
+LAND,Land Securities,Real estate investment trusts,FTSE100,UK,LAND.L
+LGEN,Legal & General,Life insurance,FTSE100,UK,LGEN.L
+LLOY,Lloyds Banking Group,Banks,FTSE100,UK,LLOY.L
+LMP,LondonMetric Property,Real Estate Investment Trusts,FTSE100,UK,LMP.L
+LSEG,London Stock Exchange Group,Financial services,FTSE100,UK,LSEG.L
+MNG,M&G,Financial services,FTSE100,UK,MNG.L
+MKS,Marks & Spencer,Food & drug retailing,FTSE100,UK,MKS.L
+MRO,Melrose Industries,Aerospace & defence,FTSE100,UK,MRO.L
+MTLN,Metlen Energy & Metals,Multiline utilities,FTSE100,UK,MTLN.L
+NG,National Grid plc,Multiline utilities,FTSE100,UK,NG.L
+NWG,NatWest Group,Banks,FTSE100,UK,NWG.L
+NXT,Next plc,General retailers,FTSE100,UK,NXT.L
+PSON,Pearson plc,Media,FTSE100,UK,PSON.L
+PSH,Pershing Square Holdings,Financial services,FTSE100,UK,PSH.L
+PSN,Persimmon,Household goods & home construction,FTSE100,UK,PSN.L
+PCT,Polar Capital Technology Trust,Investment trusts,FTSE100,UK,PCT.L
+PRU,Prudential plc,Life insurance,FTSE100,UK,PRU.L
+RKT,Reckitt,Household goods & home construction,FTSE100,UK,RKT.L
+REL,RELX,Media,FTSE100,UK,REL.L
+RTO,Rentokil Initial,Support services,FTSE100,UK,RTO.L
+RIO,Rio Tinto,Mining,FTSE100,UK,RIO.L
+RR,Rolls-Royce Holdings,Aerospace & defence,FTSE100,UK,RR.L
+SGE,Sage Group,Software & computer services,FTSE100,UK,SGE.L
+SBRY,Sainsbury's,Food & drug retailing,FTSE100,UK,SBRY.L
+SDR,Schroders,Financial services,FTSE100,UK,SDR.L
+SMT,Scottish Mortgage Investment Trust,Collective investments,FTSE100,UK,SMT.L
+SGRO,Segro,Real estate investment trusts,FTSE100,UK,SGRO.L
+SVT,Severn Trent,Multiline utilities,FTSE100,UK,SVT.L
+SHEL,Shell plc,Oil & gas producers,FTSE100,UK,SHEL.L
+SMIN,Smiths Group,General industrials,FTSE100,UK,SMIN.L
+SN,Smith & Nephew,Health care equipment & supplies,FTSE100,UK,SN.L
+SPX,Spirax Group,Industrial engineering,FTSE100,UK,SPX.L
+SSE,SSE plc,Electrical utilities & independent power producers,FTSE100,UK,SSE.L
+STAN,Standard Chartered,Banks,FTSE100,UK,STAN.L
+SDLF,Standard Life,Life insurance,FTSE100,UK,SDLF.L
+STJ,St. James's Place,Financial services,FTSE100,UK,STJ.L
+TSCO,Tesco,Food & drug retailing,FTSE100,UK,TSCO.L
+BBOX,Tritax Big Box REIT,Real Estate Investment Trusts,FTSE100,UK,BBOX.L
+ULVR,Unilever,Personal goods,FTSE100,UK,ULVR.L
+UU,United Utilities,Multiline utilities,FTSE100,UK,UU.L
+VOD,Vodafone Group,Mobile telecommunications,FTSE100,UK,VOD.L
+WEIR,Weir,Industrial goods and services,FTSE100,UK,WEIR.L
+WTB,Whitbread,Retail hospitality,FTSE100,UK,WTB.L

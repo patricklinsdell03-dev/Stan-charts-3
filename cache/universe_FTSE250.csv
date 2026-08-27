@@ -1,0 +1,251 @@
+raw_symbol,name,sector,index,market,ticker
+3IN,3i Infrastructure,Financial Services,FTSE250,UK,3IN.L
+FOUR,4imprint,Media,FTSE250,UK,FOUR.L
+AAS,Aberdeen Asia Focus,Investment Trusts,FTSE250,UK,AAS.L
+ASL,Aberforth Smaller Companies Trust,Investment Trusts,FTSE250,UK,ASL.L
+AEP,AEP Plantations,Food Producers,FTSE250,UK,AEP.L
+ALFA,Alfa Financial Software,Software and Computer Services,FTSE250,UK,ALFA.L
+ATT,Allianz Technology Trust,Investment Trusts,FTSE250,UK,ATT.L
+AO,AO World,Retail,FTSE250,UK,AO.L
+APN,Applied Nutrition,Food Producers,FTSE250,UK,APN.L
+ASHM,Ashmore Group,Financial Services,FTSE250,UK,ASHM.L
+AIE,Ashoka India Equity Investment Trust,Investment Trusts,FTSE250,UK,AIE.L
+AML,Aston Martin Lagonda,Automobiles & Parts,FTSE250,UK,AML.L
+ATYM,Atalaya Mining,Industrial Metals and Mining,FTSE250,UK,ATYM.L
+ATG,Auction Technology Group,Software and Computer Services,FTSE250,UK,ATG.L
+AGT,AVI Global Trust,Investment Trusts,FTSE250,UK,AGT.L
+AVON,Avon Technologies,Industrial Goods and Services,FTSE250,UK,AVON.L
+BME,B&M,Retailers,FTSE250,UK,BME.L
+BGFD,Baillie Gifford Japan Trust,Investment Trusts,FTSE250,UK,BGFD.L
+USA,Baillie Gifford US Growth Trust,Investment Trusts,FTSE250,UK,USA.L
+BBY,Balfour Beatty,Construction & Materials,FTSE250,UK,BBY.L
+BCG,Baltic Classifieds,Consumer Digital Services,FTSE250,UK,BCG.L
+BNKR,Bankers Investment Trust,Investment Trusts,FTSE250,UK,BNKR.L
+BAG,A.G. Barr,Beverages,FTSE250,UK,BAG.L
+AJB,AJ Bell,Financial Services,FTSE250,UK,AJB.L
+BWY,Bellway,Home Construction,FTSE250,UK,BWY.L
+BKG,Berkeley Group Holdings,Household goods & home construction,FTSE250,UK,BKG.L
+BHMG,BH Macro,Hedge Funds,FTSE250,UK,BHMG.L
+BYG,Big Yellow Group,Real Estate Investment Trusts,FTSE250,UK,BYG.L
+BPCR,Biopharma Credit,Investment Trusts,FTSE250,UK,BPCR.L
+BRGE,BlackRock Greater Europe Investment Trust,Investment Trusts,FTSE250,UK,BRGE.L
+BRSC,BlackRock Smaller Companies Trust,Investment Trusts,FTSE250,UK,BRSC.L
+BRWM,BlackRock World Mining Trust,Investment Trusts,FTSE250,UK,BRWM.L
+BMY,Bloomsbury Publishing,Media,FTSE250,UK,BMY.L
+BOY,Bodycote,Industrial Engineering,FTSE250,UK,BOY.L
+BREE,Breedon Group,Construction & Materials,FTSE250,UK,BREE.L
+BPT,Bridgepoint Group,Financial Services,FTSE250,UK,BPT.L
+BUT,Brunner Investment Trust,Investment Trusts,FTSE250,UK,BUT.L
+BYIT,Bytes Technology Group,Aerospace & Defence,FTSE250,UK,BYIT.L
+CLDN,Caledonia Investments,Investment Trusts,FTSE250,UK,CLDN.L
+CGT,Capital Gearing Trust,Investment Trusts,FTSE250,UK,CGT.L
+CWR,Ceres Power,Alternative Energy,FTSE250,UK,CWR.L
+CHG,Chemring Group,Aerospace & Defence,FTSE250,UK,CHG.L
+CSN,Chesnara,Life Insurance,FTSE250,UK,CSN.L
+CTY,City of London Investment Trust,Investment Trusts,FTSE250,UK,CTY.L
+CKN,Clarkson,Industrial Transportation,FTSE250,UK,CKN.L
+CBG,Close Brothers Group,Financial Services,FTSE250,UK,CBG.L
+CMCX,CMC Markets,Financial Services,FTSE250,UK,CMCX.L
+COA,Coats Group,Consumer Staples,FTSE250,UK,COA.L
+CORD,Cordiant Digital Infrastructure,Investment Trusts,FTSE250,UK,CORD.L
+COST,Costain Group,Engineering and Construction,FTSE250,UK,COST.L
+CWK,Cranswick,Food Producers,FTSE250,UK,CWK.L
+CURY,Currys,Retailers,FTSE250,UK,CURY.L
+CVSG,CVS Group,Health Care,FTSE250,UK,CVSG.L
+DLN,Derwent London,Real Estate Investment Trusts,FTSE250,UK,DLN.L
+DSCV,discoverIE,Support Services,FTSE250,UK,DSCV.L
+DOM,Domino's Pizza,Travel & Leisure,FTSE250,UK,DOM.L
+DRX,Drax Group,Electricity,FTSE250,UK,DRX.L
+DOCS,Dr. Martens,Retailers,FTSE250,UK,DOCS.L
+DNLM,Dunelm Group,Retailers,FTSE250,UK,DNLM.L
+EZJ,EasyJet,Travel and Leisure,FTSE250,UK,EZJ.L
+EDIN,Edinburgh Investment Trust,Investment Trusts,FTSE250,UK,EDIN.L
+EWI,Edinburgh Worldwide Investment Trust,Investment Trusts,FTSE250,UK,EWI.L
+ELM,Elementis,Chemicals,FTSE250,UK,ELM.L
+ENOG,Energean,Oil & Gas Producers,FTSE250,UK,ENOG.L
+ESCT,European Smaller Companies Trust,Investment Trusts,FTSE250,UK,ESCT.L
+EWG,Eurowag,Financial Services,FTSE250,UK,EWG.L
+FCSS,Fidelity China Special Situations,Investment Trusts,FTSE250,UK,FCSS.L
+FEML,Fidelity Emerging Markets,Investment Trusts,FTSE250,UK,FEML.L
+FEV,Fidelity European Trust,Investment Trusts,FTSE250,UK,FEV.L
+FSV,Fidelity Special Values,Investment Trusts,FTSE250,UK,FSV.L
+FGT,Finsbury Growth & Income Trust,Equity Investments,FTSE250,UK,FGT.L
+FGP,FirstGroup,Travel & Leisure,FTSE250,UK,FGP.L
+FGEN,Foresight Environmental Infrastructure,Investment Trusts,FTSE250,UK,FGEN.L
+FSG,Foresight Group,Investment Banking and Brokerage Services,FTSE250,UK,FSG.L
+FRAS,Frasers Group,Retailers,FTSE250,UK,FRAS.L
+FCH,Funding Circle,Financial Services,FTSE250,UK,FCH.L
+GFRD,Galliford Try,Construction,FTSE250,UK,GFRD.L
+GAMA,Gamma Communications,Telecommunications,FTSE250,UK,GAMA.L
+GBG,GB Group,Software and Computer Services,FTSE250,UK,GBG.L
+GCP,GCP Infrastructure Investments,General Financial,FTSE250,UK,GCP.L
+GEN,Genuit Group,Construction & Materials,FTSE250,UK,GEN.L
+GNS,Genus,Pharmaceuticals & Biotechnology,FTSE250,UK,GNS.L
+DATA,GlobalData,Industrial Goods and Services,FTSE250,UK,DATA.L
+GSCT,Global Smaller Companies Trust,Investment Trusts,FTSE250,UK,GSCT.L
+GDWN,Goodwin,General Industrials,FTSE250,UK,GDWN.L
+GFTU,Grafton Group,Support Services,FTSE250,UK,GFTU.L
+GRI,Grainger,Real Estate Investment & Services,FTSE250,UK,GRI.L
+GPE,Great Portland Estates,Real Estate Investment Trusts,FTSE250,UK,GPE.L
+UKW,Greencoat UK Wind,"Gas, Water & Multiutilities",FTSE250,UK,UKW.L
+GNC,Greencore,"Food, Beverage and Tobacco",FTSE250,UK,GNC.L
+GRG,Greggs,Food & Drug Retailers,FTSE250,UK,GRG.L
+HFD,Halfords,Retailers,FTSE250,UK,HFD.L
+HMSO,Hammerson,Real Estate Investment Trusts,FTSE250,UK,HMSO.L
+HANA,Hansa Investment Company,Investment Trusts,FTSE250,UK,HANA.L
+HBR,Harbour Energy,Oil & Gas Producers,FTSE250,UK,HBR.L
+HVPE,HarbourVest Global Private Equity,Equity Investments,FTSE250,UK,HVPE.L
+HWG,Harworth Group,Real Estate,FTSE250,UK,HWG.L
+HAS,Hays,Support Services,FTSE250,UK,HAS.L
+HTWS,Helios Towers,Telecomms,FTSE250,UK,HTWS.L
+HFEL,Henderson Far East Income,Investment Trusts,FTSE250,UK,HFEL.L
+HSL,Henderson Smaller Companies Investment Trust,Investment Trusts,FTSE250,UK,HSL.L
+HRI,Herald Investment Trust,Investment Trusts,FTSE250,UK,HRI.L
+HGT,Hg Capital Trust,Investment Trusts,FTSE250,UK,HGT.L
+HICL,HICL Infrastructure Company,Investment Trusts,FTSE250,UK,HICL.L
+HIK,Hikma Pharmaceuticals,Pharmaceuticals and Biotechnology,FTSE250,UK,HIK.L
+HILS,Hill & Smith,Industrial Engineering,FTSE250,UK,HILS.L
+HFG,Hilton Food Group,Food Producers,FTSE250,UK,HFG.L
+HOC,Hochschild Mining,Basic Resources,FTSE250,UK,HOC.L
+BOWL,Hollywood Bowl Group,Travel and leisure,FTSE250,UK,BOWL.L
+HTG,Hunting,"Oil, Gas and Coal",FTSE250,UK,HTG.L
+ICGT,ICG Enterprise Trust,Investment Trusts,FTSE250,UK,ICGT.L
+INCH,Inchcape,Retailers,FTSE250,UK,INCH.L
+IHP,IntegraFin Holdings,Financial Services,FTSE250,UK,IHP.L
+INPP,International Public Partnerships,Financial Services,FTSE250,UK,INPP.L
+IWG,International Workplace Group,Support Services,FTSE250,UK,IWG.L
+IAD,Invesco Asia Dragon Trust,Investment Trusts,FTSE250,UK,IAD.L
+IPO,IP Group,Financial Services,FTSE250,UK,IPO.L
+ITH,Ithaca Energy,Oil & Gas Producers,FTSE250,UK,ITH.L
+ITV,ITV,Media,FTSE250,UK,ITV.L
+JMAT,Johnson Matthey,Chemicals,FTSE250,UK,JMAT.L
+JSG,Johnson Service Group,Industrial Support Services,FTSE250,UK,JSG.L
+JAM,JPMorgan American Investment Trust,Investment Trusts,FTSE250,UK,JAM.L
+JCH,JPMorgan Claverhouse Investment Trust,Investment Trusts,FTSE250,UK,JCH.L
+JEMI,JPMorgan Emerging Markets Dividend Income,Investment Trusts,FTSE250,UK,JEMI.L
+JMGI,JPMorgan Emerging Markets Growth & Income,Investment Trusts,FTSE250,UK,JMGI.L
+JEDT,JPMorgan European Discovery,Investment Trusts,FTSE250,UK,JEDT.L
+JEGI,JPMorgan European Growth & Income,Investment Trusts,FTSE250,UK,JEGI.L
+JGGI,JPMorgan Global Growth & Income,Investment Trusts,FTSE250,UK,JGGI.L
+JFJ,JPMorgan Japanese Investment Trust,Investment Trusts,FTSE250,UK,JFJ.L
+JUP,Jupiter Fund Management,Financial Services,FTSE250,UK,JUP.L
+KNOS,Kainos,Software & Computer Services,FTSE250,UK,KNOS.L
+KLR,Keller Group,Construction & Materials,FTSE250,UK,KLR.L
+KIE,Kier Group,Construction & Materials,FTSE250,UK,KIE.L
+LRE,Lancashire Holdings,Nonlife Insurance,FTSE250,UK,LRE.L
+LWDB,Law Debenture,Investment Trusts,FTSE250,UK,LWDB.L
+EMG,Man Group,Investment Trusts,FTSE250,UK,EMG.L
+MEGP,ME Group International,Leisure Goods,FTSE250,UK,MEGP.L
+MRC,Mercantile Investment Trust,Collective Investments,FTSE250,UK,MRC.L
+MRCH,Merchants Trust,Investment Trusts,FTSE250,UK,MRCH.L
+MTRO,Metro Bank,Banks,FTSE250,UK,MTRO.L
+MAB,Mitchells & Butlers,Travel & Leisure,FTSE250,UK,MAB.L
+MTO,Mitie,Support Services,FTSE250,UK,MTO.L
+GROW,Molten Ventures,Financial Services,FTSE250,UK,GROW.L
+MNDI,Mondi,Containers & packaging,FTSE250,UK,MNDI.L
+MNKS,Monks Investment Trust,Investment Trusts,FTSE250,UK,MNKS.L
+MONY,MONY Group,Media,FTSE250,UK,MONY.L
+MOON,Moonpig,Retailers,FTSE250,UK,MOON.L
+MGAM,Morgan Advanced Materials,Electronic & Electrical Equipment,FTSE250,UK,MGAM.L
+MGNS,Morgan Sindall Group,Construction & Materials,FTSE250,UK,MGNS.L
+MUT,Murray Income Trust,Investment Trusts,FTSE250,UK,MUT.L
+MYI,Murray International Trust,Investment Trusts,FTSE250,UK,MYI.L
+NBPE,NB Private Equity Partners,Collective Investments,FTSE250,UK,NBPE.L
+NCC,NCC Group,Software and Computer Services,FTSE250,UK,NCC.L
+N91,Ninety One,Financial Services,FTSE250,UK,N91.L
+NAIT,North American Income Trust,Investment Trusts,FTSE250,UK,NAIT.L
+NAS,North Atlantic Smaller Companies Investment Trust,Investment Trusts,FTSE250,UK,NAS.L
+OCI,Oakley Capital Investments,Investment Trusts,FTSE250,UK,OCI.L
+OCDO,Ocado Group,Food & drug retailers,FTSE250,UK,OCDO.L
+OSB,OSB Group,Banks,FTSE250,UK,OSB.L
+OXB,Oxford Biomedica,Pharmaceuticals and Biotechnology,FTSE250,UK,OXB.L
+OXIG,Oxford Instruments,Electronic & Electrical Equipment,FTSE250,UK,OXIG.L
+ONT,Oxford Nanopore Technologies,Health Care,FTSE250,UK,ONT.L
+PHI,Pacific Horizon Investment Trust,Investment Trusts,FTSE250,UK,PHI.L
+PAGE,PageGroup,Support Services,FTSE250,UK,PAGE.L
+PAF,Pan African Resources,Precious Metals and Mining,FTSE250,UK,PAF.L
+PINT,Pantheon Infrastructure,Investment Trusts,FTSE250,UK,PINT.L
+PIN,Pantheon International,Equity Investments,FTSE250,UK,PIN.L
+PAG,Paragon Banking Group,Financial Services,FTSE250,UK,PAG.L
+PEY,Partners Group Private Equity,Investment Trusts,FTSE250,UK,PEY.L
+PPET,Patria Private Equity Trust,Financial Services,FTSE250,UK,PPET.L
+PNN,Pennon Group,"Gas, Water & Multiutilities",FTSE250,UK,PNN.L
+PNL,Personal Assets Trust,Investment Trusts,FTSE250,UK,PNL.L
+PETS,Pets at Home,Retailers,FTSE250,UK,PETS.L
+PTEC,Playtech,Software & Computer Services,FTSE250,UK,PTEC.L
+PLUS,Plus500,Financial Services,FTSE250,UK,PLUS.L
+PCGH,Polar Capital Global Healthcare Trust,Investment Trusts,FTSE250,UK,PCGH.L
+POLN,Pollen Street Group,Financial Services,FTSE250,UK,POLN.L
+PPH,PPHE Hotel Group,Travel and Leisure,FTSE250,UK,PPH.L
+PFD,Premier Foods,Food & Drug Retailers,FTSE250,UK,PFD.L
+PHP,Primary Health Properties,Real Estate Investment Trusts,FTSE250,UK,PHP.L
+PRN,Princes Group,Food and drink,FTSE250,UK,PRN.L
+QQ,Qinetiq,Aerospace & Defence,FTSE250,UK,QQ.L
+QLT,Quilter,Financial Services,FTSE250,UK,QLT.L
+RNK,Rank Group,Travel and Leisure,FTSE250,UK,RNK.L
+RPI,Raspberry Pi Holdings,Technology,FTSE250,UK,RPI.L
+RAT,Rathbones,Financial Services,FTSE250,UK,RAT.L
+RSW,Renishaw,Electronic & Electrical Equipment,FTSE250,UK,RSW.L
+RHIM,RHI Magnesita,Support Services,FTSE250,UK,RHIM.L
+RMV,Rightmove,Media,FTSE250,UK,RMV.L
+RCP,RIT Capital Partners,Investment Trusts,FTSE250,UK,RCP.L
+ROSE,Rosebank Industries,Industrial Goods and Services,FTSE250,UK,ROSE.L
+ROR,Rotork,Industrial Engineering,FTSE250,UK,ROR.L
+RS1,RS Group,Industrials,FTSE250,UK,RS1.L
+RTW,RTW Biotech Opportunities,Investment Trusts,FTSE250,UK,RTW.L
+RICA,Ruffer Investment Company,Investment Trusts,FTSE250,UK,RICA.L
+SAFE,Safestore,Real Estate Investment Trusts,FTSE250,UK,SAFE.L
+SAGA,Saga,Travel and Leisure,FTSE250,UK,SAGA.L
+SVS,Savills,Real Estate Investment & Services,FTSE250,UK,SVS.L
+MNTN,Schiehallion Fund,Investment Trusts,FTSE250,UK,MNTN.L
+ATR,Schroder Asian Total Return Investment Company,Investment Trusts,FTSE250,UK,ATR.L
+SDP,Schroder AsiaPacific Fund,Investment Trusts,FTSE250,UK,SDP.L
+SOI,Schroder Oriental Income Fund,Financial Services,FTSE250,UK,SOI.L
+SAIN,Scottish American Investment Company,Investment Trusts,FTSE250,UK,SAIN.L
+SEIT,SDCL Efficiency Income Trust,Energy,FTSE250,UK,SEIT.L
+SNR,Senior,Aerospace & Defence,FTSE250,UK,SNR.L
+SEQI,Sequoia Economic Infrastructure Income Fund,Financial Services,FTSE250,UK,SEQI.L
+SSIT,Seraphim Space Investment Trust,Investment Trusts,FTSE250,UK,SSIT.L
+SRP,Serco,Support Services,FTSE250,UK,SRP.L
+SHC,Shaftesbury Capital,Real Estate Investment Trusts,FTSE250,UK,SHC.L
+SHAW,Shawbrook Bank,Banking,FTSE250,UK,SHAW.L
+SRE,Sirius Real Estate,Real Estate,FTSE250,UK,SRE.L
+SCT,Softcat,Software & Computer Services,FTSE250,UK,SCT.L
+SPI,Spire Healthcare,Health Care Equipment & Services,FTSE250,UK,SPI.L
+SSPG,SSP Group,Retailers,FTSE250,UK,SSPG.L
+SUPR,Supermarket Income REIT,Real Estate Investment Trusts,FTSE250,UK,SUPR.L
+SYNC,Syncona,Pharmaceuticals & Biotechnology,FTSE250,UK,SYNC.L
+THRL,Target Healthcare REIT,Real Estate Investment Trusts,FTSE250,UK,THRL.L
+TATE,Tate & Lyle,Food Producers,FTSE250,UK,TATE.L
+TW,Taylor Wimpey,Household goods & home construction,FTSE250,UK,TW.L
+TBCG,TBC Bank,Banks,FTSE250,UK,TBCG.L
+TEP,Telecom Plus,Telecomms,FTSE250,UK,TEP.L
+TMPL,Temple Bar Investment Trust,Collective Investments,FTSE250,UK,TMPL.L
+TEM,Templeton Emerging Markets Investment Trust,Investment Trusts,FTSE250,UK,TEM.L
+TRIG,The Renewables Infrastructure Group,Investment Trusts,FTSE250,UK,TRIG.L
+THG,THG,Personal Products,FTSE250,UK,THG.L
+TCAP,TP ICAP,Support Services,FTSE250,UK,TCAP.L
+TRN,Trainline,Industrial Transportation,FTSE250,UK,TRN.L
+TPK,Travis Perkins,Support Services,FTSE250,UK,TPK.L
+TRY,TR Property Investment Trust,Investment Trusts,FTSE250,UK,TRY.L
+TRST,Trustpilot,Technology,FTSE250,UK,TRST.L
+TFIF,Twentyfour Income Fund,Investment Trusts,FTSE250,UK,TFIF.L
+UTG,Unite Group,Real estate investment trusts,FTSE250,UK,UTG.L
+UEM,Utilico Emerging Markets,Investment Trusts,FTSE250,UK,UEM.L
+VSVS,Vesuvius,General Industrials,FTSE250,UK,VSVS.L
+VCT,Victrex,Chemicals,FTSE250,UK,VCT.L
+VEIL,Vietnam Enterprise Investments,General Financial,FTSE250,UK,VEIL.L
+VOF,VinaCapital Vietnam Opportunity Fund,General Financial,FTSE250,UK,VOF.L
+VTY,Vistry Group,Home Construction,FTSE250,UK,VTY.L
+FAN,Volution Group,Construction & Materials,FTSE250,UK,FAN.L
+WOSG,Watches of Switzerland,Personal Goods,FTSE250,UK,WOSG.L
+JDW,Wetherspoons,Travel & Leisure,FTSE250,UK,JDW.L
+SMWH,WHSmith,Retailers,FTSE250,UK,SMWH.L
+WIX,Wickes,Retailers,FTSE250,UK,WIX.L
+WIZZ,Wizz Air,Travel & Leisure,FTSE250,UK,WIZZ.L
+WKP,Workspace Group,Real Estate Investment Trusts,FTSE250,UK,WKP.L
+WWH,Worldwide Healthcare Trust,Investment Trusts,FTSE250,UK,WWH.L
+WPP,WPP,Media,FTSE250,UK,WPP.L
+XPP,XP Power,Industrial Goods and Services,FTSE250,UK,XPP.L
+XPS,XPS Pensions,Financial Services,FTSE250,UK,XPS.L
+ZIG,Zigup,Support Services,FTSE250,UK,ZIG.L
