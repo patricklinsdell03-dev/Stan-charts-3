@@ -370,7 +370,7 @@ OKE,BUY LIMIT,95.05,"pullback entry, old resistance acting as support"
 OKE,STOP LOSS,84.9186,"initial stop, below base support and the 30 week average"
 OKE,BREAKEVEN,108.0782,move the stop to entry here
 OKE,TARGET 1,119.0936,"measured move, sell part of the position (1.95R)"
-OKE,TARGET 2,138.3286,second measured move (3.61R)
+OKE,TARGET 2,138.3285,second measured move (3.61R)
 NWG.L,BUY STOP,735.072,"breakout trigger, above the base pivot"
 NWG.L,BUY LIMIT,725.8781,"pullback entry, old resistance acting as support"
 NWG.L,STOP LOSS,646.8633,"initial stop, below base support and the 30 week average"
@@ -441,7 +441,7 @@ UKW.L,BUY STOP,118.1212,"breakout trigger, above the base pivot"
 UKW.L,BUY LIMIT,116.9725,"pullback entry, old resistance acting as support"
 UKW.L,STOP LOSS,103.9467,"initial stop, below base support and the 30 week average"
 UKW.L,BREAKEVEN,132.2957,move the stop to entry here
-UKW.L,TARGET 1,141.7909,"measured move, sell part of the position (1.67R)"
+UKW.L,TARGET 1,141.791,"measured move, sell part of the position (1.67R)"
 UKW.L,TARGET 2,161.6457,second measured move (3.07R)
 PR,BUY STOP,22.8653,"breakout trigger, above the base pivot"
 PR,BUY LIMIT,22.483,"pullback entry, old resistance acting as support"
@@ -591,7 +591,7 @@ AMGN,BUY STOP,424.7837,"breakout trigger, above the base pivot"
 AMGN,BUY LIMIT,419.3394,"pullback entry, old resistance acting as support"
 AMGN,STOP LOSS,373.8097,"initial stop, below base support and the 30 week average"
 AMGN,BREAKEVEN,475.7577,move the stop to entry here
-AMGN,TARGET 1,523.4195,"measured move, sell part of the position (1.94R)"
+AMGN,TARGET 1,523.4196,"measured move, sell part of the position (1.94R)"
 AMGN,TARGET 2,606.6837,second measured move (3.57R)
 FCX,BUY STOP,73.8014,"breakout trigger, above the base pivot"
 FCX,BUY LIMIT,72.105,"pullback entry, old resistance acting as support"
@@ -603,7 +603,7 @@ OVV,BUY STOP,65.6956,"breakout trigger, above the base pivot"
 OVV,BUY LIMIT,64.61,"pullback entry, old resistance acting as support"
 OVV,STOP LOSS,57.8121,"initial stop, below base support and the 30 week average"
 OVV,BREAKEVEN,73.5791,move the stop to entry here
-OVV,TARGET 1,90.3189,"measured move, sell part of the position (3.12R)"
+OVV,TARGET 1,90.319,"measured move, sell part of the position (3.12R)"
 OVV,TARGET 2,110.8861,second measured move (5.73R)
 GRMN,BUY STOP,318.6162,"breakout trigger, above the base pivot"
 GRMN,BUY LIMIT,314.28,"pullback entry, old resistance acting as support"
@@ -633,8 +633,8 @@ FOUR.L,BUY STOP,5233.6073,"breakout trigger, above the base pivot"
 FOUR.L,BUY LIMIT,5134.3625,"pullback entry, old resistance acting as support"
 FOUR.L,STOP LOSS,4605.5744,"initial stop, below base support and the 30 week average"
 FOUR.L,BREAKEVEN,5861.6402,move the stop to entry here
-FOUR.L,TARGET 1,7132.9347,"measured move, sell part of the position (3.02R)"
-FOUR.L,TARGET 2,8731.7926,second measured move (5.57R)
+FOUR.L,TARGET 1,7132.935,"measured move, sell part of the position (3.02R)"
+FOUR.L,TARGET 2,8731.793,second measured move (5.57R)
 HXL,BUY STOP,113.284,"breakout trigger, above the base pivot"
 HXL,BUY LIMIT,111.5455,"pullback entry, old resistance acting as support"
 HXL,STOP LOSS,99.6899,"initial stop, below base support and the 30 week average"
@@ -935,18 +935,18 @@ SAIN.L,STOP LOSS,524.0726,"initial stop, below base support and the 30 week aver
 SAIN.L,BREAKEVEN,627.7078,move the stop to entry here
 SAIN.L,TARGET 1,663.9635,"measured move, sell part of the position (1.7R)"
 SAIN.L,TARGET 2,737.5344,second measured move (3.12R)
-TRIG.L,BUY STOP,79.7675,"breakout trigger, above the base pivot"
-TRIG.L,BUY LIMIT,78.9808,"pullback entry, old resistance acting as support"
-TRIG.L,STOP LOSS,70.1954,"initial stop, below base support and the 30 week average"
-TRIG.L,BREAKEVEN,89.3396,move the stop to entry here
-TRIG.L,TARGET 1,94.7935,"measured move, sell part of the position (1.57R)"
-TRIG.L,TARGET 2,107.4436,second measured move (2.89R)
 ESCT.L,BUY STOP,249.5738,"breakout trigger, above the base pivot"
 ESCT.L,BUY LIMIT,247.1756,"pullback entry, old resistance acting as support"
 ESCT.L,STOP LOSS,225.1018,"initial stop, below base support and the 30 week average"
 ESCT.L,BREAKEVEN,274.0458,move the stop to entry here
 ESCT.L,TARGET 1,300.5984,"measured move, sell part of the position (2.09R)"
 ESCT.L,TARGET 2,343.3367,second measured move (3.83R)
+TRIG.L,BUY STOP,79.7675,"breakout trigger, above the base pivot"
+TRIG.L,BUY LIMIT,78.9808,"pullback entry, old resistance acting as support"
+TRIG.L,STOP LOSS,70.1954,"initial stop, below base support and the 30 week average"
+TRIG.L,BREAKEVEN,89.3396,move the stop to entry here
+TRIG.L,TARGET 1,94.7935,"measured move, sell part of the position (1.57R)"
+TRIG.L,TARGET 2,107.4436,second measured move (2.89R)
 PNL.L,BUY STOP,561.0744,"breakout trigger, above the base pivot"
 PNL.L,BUY LIMIT,557.9858,"pullback entry, old resistance acting as support"
 PNL.L,STOP LOSS,522.898,"initial stop, below base support and the 30 week average"
@@ -965,12 +965,12 @@ ICG.L,STOP LOSS,1869.0453,"initial stop, below base support and the 30 week aver
 ICG.L,BREAKEVEN,2378.7849,move the stop to entry here
 ICG.L,TARGET 1,2759.5944,"measured move, sell part of the position (2.49R)"
 ICG.L,TARGET 2,3293.6699,second measured move (4.59R)
-ICGT.L,BUY STOP,1582.0167,"breakout trigger, above the base pivot"
-ICGT.L,BUY LIMIT,1569.6706,"pullback entry, old resistance acting as support"
-ICGT.L,STOP LOSS,1392.1747,"initial stop, below base support and the 30 week average"
-ICGT.L,BREAKEVEN,1771.8587,move the stop to entry here
-ICGT.L,TARGET 1,1851.2236,"measured move, sell part of the position (1.42R)"
-ICGT.L,TARGET 2,2076.4661,second measured move (2.6R)
+ICGT.L,BUY STOP,1582.0166,"breakout trigger, above the base pivot"
+ICGT.L,BUY LIMIT,1569.6705,"pullback entry, old resistance acting as support"
+ICGT.L,STOP LOSS,1392.1746,"initial stop, below base support and the 30 week average"
+ICGT.L,BREAKEVEN,1771.8586,move the stop to entry here
+ICGT.L,TARGET 1,1851.2234,"measured move, sell part of the position (1.42R)"
+ICGT.L,TARGET 2,2076.4657,second measured move (2.6R)
 SHC.L,BUY STOP,156.7876,"breakout trigger, above the base pivot"
 SHC.L,BUY LIMIT,155.054,"pullback entry, old resistance acting as support"
 SHC.L,STOP LOSS,137.9731,"initial stop, below base support and the 30 week average"
@@ -1000,7 +1000,7 @@ NDAQ,BUY LIMIT,100.8279,"pullback entry, old resistance acting as support"
 NDAQ,STOP LOSS,89.9166,"initial stop, below base support and the 30 week average"
 NDAQ,BREAKEVEN,114.4394,move the stop to entry here
 NDAQ,TARGET 1,125.1058,"measured move, sell part of the position (1.87R)"
-NDAQ,TARGET 2,144.5282,second measured move (3.45R)
+NDAQ,TARGET 2,144.5281,second measured move (3.45R)
 BLK,BUY STOP,1201.7243,"breakout trigger, above the base pivot"
 BLK,BUY LIMIT,1186.74,"pullback entry, old resistance acting as support"
 BLK,STOP LOSS,1057.5174,"initial stop, below base support and the 30 week average"
@@ -1013,12 +1013,12 @@ MAB.L,STOP LOSS,269.2058,"initial stop, below base support and the 30 week avera
 MAB.L,BREAKEVEN,342.6256,move the stop to entry here
 MAB.L,TARGET 1,379.5,"measured move, sell part of the position (2.0R)"
 MAB.L,TARGET 2,441.9,second measured move (3.7R)
-JEGI.L,BUY STOP,154.4749,"breakout trigger, above the base pivot"
+JEGI.L,BUY STOP,154.4748,"breakout trigger, above the base pivot"
 JEGI.L,BUY LIMIT,152.9715,"pullback entry, old resistance acting as support"
 JEGI.L,STOP LOSS,140.9066,"initial stop, below base support and the 30 week average"
-JEGI.L,BREAKEVEN,168.0431,move the stop to entry here
+JEGI.L,BREAKEVEN,168.043,move the stop to entry here
 JEGI.L,TARGET 1,181.4662,"measured move, sell part of the position (1.99R)"
-JEGI.L,TARGET 2,204.262,second measured move (3.67R)
+JEGI.L,TARGET 2,204.2619,second measured move (3.67R)
 JGGI.L,BUY STOP,645.5815,"breakout trigger, above the base pivot"
 JGGI.L,BUY LIMIT,640.936,"pullback entry, old resistance acting as support"
 JGGI.L,STOP LOSS,583.7958,"initial stop, below base support and the 30 week average"
@@ -1391,18 +1391,18 @@ STAG,STOP LOSS,38.7595,"initial stop, above base resistance and the 30 week aver
 STAG,BREAKEVEN,30.4539,move the stop to entry here
 STAG,TARGET 1,27.4597,"measured move, sell part of the position (1.72R)"
 STAG,TARGET 2,21.3996,second measured move (3.18R)
-HGV,SELL STOP,36.4199,"breakout trigger, below the base pivot"
-HGV,SELL LIMIT,37.46,"pullback entry, old support acting as resistance"
-HGV,STOP LOSS,40.7903,"initial stop, above base resistance and the 30 week average"
-HGV,BREAKEVEN,32.0495,move the stop to entry here
-HGV,TARGET 1,19.52,"measured move, sell part of the position (3.87R)"
-HGV,TARGET 2,5.168,second measured move (7.15R)
 VICI,SELL STOP,25.5196,"breakout trigger, below the base pivot"
 VICI,SELL LIMIT,25.815,"pullback entry, old support acting as resistance"
 VICI,STOP LOSS,28.5819,"initial stop, above base resistance and the 30 week average"
 VICI,BREAKEVEN,22.4573,move the stop to entry here
 VICI,TARGET 1,22.1289,"measured move, sell part of the position (1.11R)"
 VICI,TARGET 2,19.18,second measured move (2.07R)
+HGV,SELL STOP,36.4199,"breakout trigger, below the base pivot"
+HGV,SELL LIMIT,37.46,"pullback entry, old support acting as resistance"
+HGV,STOP LOSS,40.7903,"initial stop, above base resistance and the 30 week average"
+HGV,BREAKEVEN,32.0495,move the stop to entry here
+HGV,TARGET 1,19.52,"measured move, sell part of the position (3.87R)"
+HGV,TARGET 2,5.168,second measured move (7.15R)
 SR,SELL STOP,74.8764,"breakout trigger, below the base pivot"
 SR,SELL LIMIT,75.85,"pullback entry, old support acting as resistance"
 SR,STOP LOSS,83.8615,"initial stop, above base resistance and the 30 week average"
@@ -1423,7 +1423,7 @@ UEM.L,TARGET 1,204.9924,"measured move, sell part of the position (1.76R)"
 UEM.L,TARGET 2,157.8223,second measured move (3.27R)
 BATS.L,SELL STOP,3687.1403,"breakout trigger, below the base pivot"
 BATS.L,SELL LIMIT,3794.0,"pullback entry, old support acting as resistance"
-BATS.L,STOP LOSS,4129.5971,"initial stop, above base resistance and the 30 week average"
+BATS.L,STOP LOSS,4129.5972,"initial stop, above base resistance and the 30 week average"
 BATS.L,BREAKEVEN,3244.6835,move the stop to entry here
 BATS.L,TARGET 1,1554.0769,"measured move, sell part of the position (4.82R)"
 BATS.L,TARGET 2,94.85,second measured move (8.12R)
@@ -1435,7 +1435,7 @@ PINT.L,TARGET 1,90.6,"measured move, sell part of the position (1.1R)"
 PINT.L,TARGET 2,78.68,second measured move (2.05R)
 ADC,SELL STOP,68.6054,"breakout trigger, below the base pivot"
 ADC,SELL LIMIT,69.3153,"pullback entry, old support acting as resistance"
-ADC,STOP LOSS,76.8381,"initial stop, above base resistance and the 30 week average"
+ADC,STOP LOSS,76.838,"initial stop, above base resistance and the 30 week average"
 ADC,BREAKEVEN,60.3728,move the stop to entry here
 ADC,TARGET 1,56.8307,"measured move, sell part of the position (1.43R)"
 ADC,TARGET 2,46.8429,second measured move (2.64R)
@@ -1459,10 +1459,10 @@ COST,TARGET 1,716.7804,"measured move, sell part of the position (1.66R)"
 COST,TARGET 2,565.5887,second measured move (3.06R)
 CMI,SELL STOP,494.0453,"breakout trigger, below the base pivot"
 CMI,SELL LIMIT,506.5675,"pullback entry, old support acting as resistance"
-CMI,STOP LOSS,553.3307,"initial stop, above base resistance and the 30 week average"
+CMI,STOP LOSS,553.3308,"initial stop, above base resistance and the 30 week average"
 CMI,BREAKEVEN,434.7599,move the stop to entry here
-CMI,TARGET 1,278.1109,"measured move, sell part of the position (3.64R)"
-CMI,TARGET 2,95.3456,second measured move (6.73R)
+CMI,TARGET 1,278.111,"measured move, sell part of the position (3.64R)"
+CMI,TARGET 2,95.3458,second measured move (6.73R)
 YUM,SELL STOP,140.7137,"breakout trigger, below the base pivot"
 YUM,SELL LIMIT,143.0,"pullback entry, old support acting as resistance"
 YUM,STOP LOSS,157.5994,"initial stop, above base resistance and the 30 week average"
@@ -1475,12 +1475,12 @@ TRY.L,STOP LOSS,321.348,"initial stop, above base resistance and the 30 week ave
 TRY.L,BREAKEVEN,252.4878,move the stop to entry here
 TRY.L,TARGET 1,193.2868,"measured move, sell part of the position (2.72R)"
 TRY.L,TARGET 2,115.1923,second measured move (4.99R)
-GAW.L,SELL STOP,15927.6095,"breakout trigger, below the base pivot"
-GAW.L,SELL LIMIT,16376.6902,"pullback entry, old support acting as resistance"
-GAW.L,STOP LOSS,17838.9226,"initial stop, above base resistance and the 30 week average"
-GAW.L,BREAKEVEN,14016.2964,move the stop to entry here
-GAW.L,TARGET 1,9216.1151,"measured move, sell part of the position (3.51R)"
-GAW.L,TARGET 2,3487.655,second measured move (6.51R)
+GAW.L,SELL STOP,15927.6114,"breakout trigger, below the base pivot"
+GAW.L,SELL LIMIT,16376.6921,"pullback entry, old support acting as resistance"
+GAW.L,STOP LOSS,17838.9248,"initial stop, above base resistance and the 30 week average"
+GAW.L,BREAKEVEN,14016.298,move the stop to entry here
+GAW.L,TARGET 1,9216.119,"measured move, sell part of the position (3.51R)"
+GAW.L,TARGET 2,3487.6604,second measured move (6.51R)
 N91.L,SELL STOP,195.3567,"breakout trigger, below the base pivot"
 N91.L,SELL LIMIT,199.9345,"pullback entry, old support acting as resistance"
 N91.L,STOP LOSS,218.7995,"initial stop, above base resistance and the 30 week average"
@@ -1493,18 +1493,18 @@ PEN,STOP LOSS,330.3216,"initial stop, above base resistance and the 30 week aver
 PEN,BREAKEVEN,295.8353,move the stop to entry here
 PEN,TARGET 1,261.6965,"measured move, sell part of the position (2.98R)"
 PEN,TARGET 2,219.2137,second measured move (5.44R)
-YETI,SELL STOP,33.8185,"breakout trigger, below the base pivot"
-YETI,SELL LIMIT,34.9,"pullback entry, old support acting as resistance"
-YETI,STOP LOSS,37.8768,"initial stop, above base resistance and the 30 week average"
-YETI,BREAKEVEN,29.7603,move the stop to entry here
-YETI,TARGET 1,13.96,"measured move, sell part of the position (4.89R)"
-YETI,TARGET 2,0.8725,second measured move (8.12R)
 PII,SELL STOP,45.0518,"breakout trigger, below the base pivot"
 PII,SELL LIMIT,46.6858,"pullback entry, old support acting as resistance"
 PII,STOP LOSS,50.458,"initial stop, above base resistance and the 30 week average"
 PII,BREAKEVEN,39.6456,move the stop to entry here
 PII,TARGET 1,18.6743,"measured move, sell part of the position (4.88R)"
 PII,TARGET 2,1.1671,second measured move (8.12R)
+YETI,SELL STOP,33.8185,"breakout trigger, below the base pivot"
+YETI,SELL LIMIT,34.9,"pullback entry, old support acting as resistance"
+YETI,STOP LOSS,37.8768,"initial stop, above base resistance and the 30 week average"
+YETI,BREAKEVEN,29.7603,move the stop to entry here
+YETI,TARGET 1,13.96,"measured move, sell part of the position (4.89R)"
+YETI,TARGET 2,0.8725,second measured move (8.12R)
 AEE,SELL STOP,98.9696,"breakout trigger, below the base pivot"
 AEE,SELL LIMIT,100.1786,"pullback entry, old support acting as resistance"
 AEE,STOP LOSS,110.8459,"initial stop, above base resistance and the 30 week average"
@@ -1535,21 +1535,15 @@ POR,STOP LOSS,51.5586,"initial stop, above base resistance and the 30 week avera
 POR,BREAKEVEN,40.5104,move the stop to entry here
 POR,TARGET 1,39.064,"measured move, sell part of the position (1.26R)"
 POR,TARGET 2,33.0576,second measured move (2.35R)
-SRE.L,SELL STOP,88.1722,"breakout trigger, below the base pivot"
-SRE.L,SELL LIMIT,89.7239,"pullback entry, old support acting as resistance"
-SRE.L,STOP LOSS,98.7528,"initial stop, above base resistance and the 30 week average"
-SRE.L,BREAKEVEN,77.5915,move the stop to entry here
-SRE.L,TARGET 1,66.4807,"measured move, sell part of the position (2.05R)"
-SRE.L,TARGET 2,47.8861,second measured move (3.81R)
 BG,SELL STOP,99.9969,"breakout trigger, below the base pivot"
 BG,SELL LIMIT,102.1658,"pullback entry, old support acting as resistance"
 BG,STOP LOSS,111.9966,"initial stop, above base resistance and the 30 week average"
 BG,BREAKEVEN,87.9973,move the stop to entry here
 BG,TARGET 1,70.3067,"measured move, sell part of the position (2.47R)"
 BG,TARGET 2,44.8194,second measured move (4.6R)
-FE,SELL STOP,42.8127,"breakout trigger, below the base pivot"
-FE,SELL LIMIT,43.3007,"pullback entry, old support acting as resistance"
-FE,STOP LOSS,47.9502,"initial stop, above base resistance and the 30 week average"
-FE,BREAKEVEN,37.6752,move the stop to entry here
-FE,TARGET 1,35.3043,"measured move, sell part of the position (1.46R)"
-FE,TARGET 2,28.9072,second measured move (2.71R)
+SRE.L,SELL STOP,88.1722,"breakout trigger, below the base pivot"
+SRE.L,SELL LIMIT,89.7239,"pullback entry, old support acting as resistance"
+SRE.L,STOP LOSS,98.7528,"initial stop, above base resistance and the 30 week average"
+SRE.L,BREAKEVEN,77.5915,move the stop to entry here
+SRE.L,TARGET 1,66.4807,"measured move, sell part of the position (2.05R)"
+SRE.L,TARGET 2,47.8861,second measured move (3.81R)
