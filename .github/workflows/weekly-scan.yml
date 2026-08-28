@@ -133,8 +133,10 @@ jobs:
           # stock dashboard commits only the stock dashboard.
           for f in docs/index.html docs/index_alerts.csv docs/crypto.html \
                    docs/crypto_alerts.csv log/signals.csv cache/universe_*.csv \
-                   cache/events.csv cache/t212_instruments.csv; do
+                   cache/events.csv cache/t212_instruments.csv \
+                   cache/sectors.csv; do
             [ -e "$f" ] && git add -f "$f"
           done
           git diff --staged --quiet || git commit -m "weekly scan $(date -u +%Y-%m-%d)"
           git push
+ 
