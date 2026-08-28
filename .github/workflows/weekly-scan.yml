@@ -105,7 +105,11 @@ jobs:
           echo "running: $args"
           python -m weinstein.cli scan $args
       - name: Upload dashboard as a run artifact
-        if: ${{ github.event.inputs.mode != 'doctor' }}
+        # always(), not success(). The scan writes the dashboard, the alerts and
+        # the journal well before it finishes; a failure in anything after that
+        # point used to skip this step and discard an hour of completed work.
+        # Publishing what exists is strictly better than publishing nothing.
+        if: ${{ always() && github.event.inputs.mode != 'doctor' }}
         # Lets a private repository, where GitHub Pages is unavailable on the
         # free tier, still collect each week's dashboard by download.
         uses: actions/upload-artifact@v4
@@ -121,10 +125,12 @@ jobs:
           if-no-files-found: warn
  
       - name: Commit dashboard
-        if: ${{ github.event.inputs.mode != 'doctor' }}
+        if: ${{ always() && github.event.inputs.mode != 'doctor' }}
         run: |
           git config user.name  "weinstein-bot"
           git config user.email "actions@github.com"
+          # Nothing here is required to exist. A run that produced only the
+          # stock dashboard commits only the stock dashboard.
           for f in docs/index.html docs/index_alerts.csv docs/crypto.html \
                    docs/crypto_alerts.csv log/signals.csv cache/universe_*.csv \
                    cache/events.csv cache/t212_instruments.csv; do
