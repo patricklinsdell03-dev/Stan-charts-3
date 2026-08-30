@@ -22,8 +22,8 @@ on:
         default: false
         type: boolean
       wide:
-        description: "scan every listed US name plus the FTSE small cap tiers (hours, not minutes)"
-        default: false
+        description: "scan every listed US name plus the FTSE small cap tiers (hours, not minutes). Untick for the index-only universe."
+        default: true
         type: boolean
  
 permissions:
@@ -91,7 +91,13 @@ jobs:
           args="--out docs/index.html"
           # A scheduled run has no inputs at all, so these resolve to empty and
           # must default to something sensible rather than to "off".
-          if [ "${{ github.event.inputs.wide }}" = "true" ]; then
+          # Scheduled runs carry no inputs at all, so this resolves to empty.
+          # Testing against "false" rather than "true" means the Saturday run
+          # gets the wide universe by default and a manual run can opt out,
+          # which is the way round the user actually wants it. Before this, the
+          # weekly scan quietly ran the 1,250-name index universe while every
+          # manual run scanned 4,500, and nothing on the page said which.
+          if [ "${{ github.event.inputs.wide }}" != "false" ]; then
             args="$args --wide"
           fi
           if [ "${{ github.event.inputs.crypto }}" != "false" ]; then
@@ -131,7 +137,8 @@ jobs:
           git config user.email "actions@github.com"
           # Nothing here is required to exist. A run that produced only the
           # stock dashboard commits only the stock dashboard.
-          for f in docs/index.html docs/index_alerts.csv docs/crypto.html \
+          for f in docs/index.html docs/index_alerts.csv docs/index_full.csv \
+                   docs/crypto.html \
                    docs/crypto_alerts.csv log/signals.csv cache/universe_*.csv \
                    cache/events.csv cache/t212_instruments.csv \
                    cache/sectors.csv; do
@@ -139,4 +146,3 @@ jobs:
           done
           git diff --staged --quiet || git commit -m "weekly scan $(date -u +%Y-%m-%d)"
           git push
- 
