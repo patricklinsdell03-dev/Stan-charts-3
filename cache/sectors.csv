@@ -399,6 +399,7 @@ AVPT,Technology,0
 AVR,Healthcare,0
 AVTX,Healthcare,0
 AVX,Technology,0
+AVXL,Healthcare,0
 AWF,Financial Services,0
 AWI,Industrials,0
 AWP,Financial Services,0
@@ -640,6 +641,7 @@ BRIA,Consumer Cyclical,0
 BRID,Consumer Defensive,0
 BRK-A,Financial Services,0
 BRKH,Financial Services,0
+BRLS,Consumer Defensive,0
 BRLT,Consumer Cyclical,0
 BRN,Energy,0
 BRNX,Utilities,0
@@ -895,6 +897,7 @@ CLNE,Energy,0
 CLNN,Consumer Defensive,0
 CLOV,Healthcare,0
 CLPR,Real Estate,0
+CLPS,Technology,0
 CLPT,Healthcare,0
 CLRB,Healthcare,0
 CLS,Technology,0
@@ -1057,6 +1060,7 @@ CURB,Real Estate,0
 CURI,Communication Services,0
 CURR,Technology,0
 CURV,Consumer Cyclical,0
+CURX,Healthcare,0
 CV,Healthcare,0
 CVBF,Financial Services,0
 CVCO,Consumer Cyclical,0
@@ -1081,6 +1085,7 @@ CWK,Real Estate,0
 CWST,Industrials,0
 CWT,Utilities,0
 CX,Basic Materials,0
+CXAI,Technology,0
 CXDO,Communication Services,0
 CXII,Financial Services,0
 CXM,Technology,0
@@ -1089,6 +1094,7 @@ CYCN,Healthcare,0
 CYD,Consumer Cyclical,0
 CYH,Healthcare,0
 CYN,Technology,0
+CYPH,Financial Services,0
 CYRX,Industrials,0
 CZFS,Financial Services,0
 CZNC,Financial Services,0
@@ -1096,6 +1102,7 @@ CZR,Consumer Cyclical,0
 CZWI,Financial Services,0
 DAAQ,Financial Services,0
 DAC,Industrials,0
+DAIC,Technology,0
 DAIO,Technology,0
 DAKT,Technology,0
 DAN,Consumer Cyclical,0
@@ -1253,6 +1260,7 @@ ECOR,Healthcare,0
 ECPG,Financial Services,0
 ECVT,Basic Materials,0
 ECX,Consumer Cyclical,0
+EDBL,Consumer Defensive,0
 EDD,Financial Services,0
 EDF,Financial Services,0
 EDHL,Communication Services,0
@@ -1685,6 +1693,7 @@ GIL,Consumer Cyclical,0
 GILT,Technology,0
 GIW,Financial Services,0
 GIX,Financial Services,0
+GIXI,Communication Services,0
 GJH,__FAILED__,1
 GJO,__FAILED__,1
 GJP,__FAILED__,1
@@ -1700,6 +1709,7 @@ GLDG,Basic Materials,0
 GLED,Financial Services,0
 GLIBA,Communication Services,0
 GLIBK,Communication Services,0
+GLMD,Healthcare,0
 GLND,Energy,0
 GLNG,Energy,0
 GLO,Financial Services,0
@@ -1756,6 +1766,7 @@ GRDN,Healthcare,0
 GRDX,Healthcare,0
 GRF,Financial Services,0
 GRI,Healthcare,0
+GRML,Basic Materials,0
 GRN,__FAILED__,1
 GRND,Technology,0
 GRNQ,Industrials,0
@@ -1886,6 +1897,7 @@ HODO,Technology,0
 HOFT,Consumer Cyclical,0
 HOLO,Technology,0
 HOPE,Financial Services,0
+HOS,__FAILED__,1
 HOUR,Consumer Cyclical,0
 HOV,Consumer Cyclical,0
 HOVR,Industrials,0
@@ -2144,6 +2156,7 @@ JOB,Industrials,0
 JOBY,Industrials,0
 JOE,Real Estate,0
 JOF,Financial Services,0
+JONE,__FAILED__,1
 JOUT,Consumer Cyclical,0
 JRSH,Consumer Cyclical,0
 JRVR,Financial Services,0
@@ -2619,7 +2632,7 @@ MYO,Healthcare,0
 MYRG,Industrials,0
 MYSE,Technology,0
 MYSZ,Consumer Cyclical,0
-NA,__FAILED__,1
+NA,Technology,0
 NABL,Technology,0
 NAGE,Healthcare,0
 NAII,Consumer Defensive,0
@@ -2652,6 +2665,7 @@ NCI,Consumer Cyclical,0
 NCMI,Communication Services,0
 NCNO,Technology,0
 NCO,Financial Services,0
+NCPL,Financial Services,0
 NCRA,Consumer Defensive,0
 NCSM,Energy,0
 NCT,Industrials,0
@@ -2910,6 +2924,7 @@ OWLS,Technology,0
 OWLT,Healthcare,0
 OXBR,Financial Services,0
 OXM,Consumer Cyclical,0
+PAAI,Communication Services,0
 PAAS,Basic Materials,0
 PAC,Industrials,0
 PACB,Healthcare,0
@@ -3409,10 +3424,12 @@ SGA,Communication Services,0
 SGC,Consumer Cyclical,0
 SGHC,Consumer Cyclical,0
 SGHT,Healthcare,0
+SGLD,Basic Materials,0
 SGLY,Industrials,0
 SGML,Basic Materials,0
 SGMT,Healthcare,0
 SGP,Healthcare,0
+SGRX,__FAILED__,1
 SGRY,Healthcare,0
 SGU,Energy,0
 SHAK,Consumer Cyclical,0
@@ -3760,6 +3777,7 @@ TR,Consumer Defensive,0
 TRAD,Financial Services,0
 TRAK,Technology,0
 TRAX,Healthcare,0
+TRBG,Industrials,0
 TRC,Industrials,0
 TRDA,Healthcare,0
 TREE,Financial Services,0
@@ -3999,3 +4017,164 @@ WBTN,Communication Services,0
 WBUY,Consumer Cyclical,0
 WBX,Technology,0
 WCN,Industrials,0
+WCT,Technology,0
+WD,Financial Services,0
+WDFC,Basic Materials,0
+WEAV,Healthcare,0
+WEN,Consumer Cyclical,0
+WENC,Financial Services,0
+WERN,Industrials,0
+WEST,Consumer Defensive,0
+WETH,Technology,0
+WETO,Technology,0
+WEYS,Consumer Cyclical,0
+WFCF,Industrials,0
+WFF,Industrials,0
+WFG,Basic Materials,0
+WGO,Consumer Cyclical,0
+WGS,Healthcare,0
+WHD,Energy,0
+WHG,Financial Services,0
+WHK,Energy,0
+WHLR,Real Estate,0
+WHWK,Healthcare,0
+WIMI,Communication Services,0
+WINA,Consumer Cyclical,0
+WIT,Technology,0
+WIX,Technology,0
+WK,Technology,0
+WKC,Energy,0
+WKHS,Consumer Cyclical,0
+WLCO,Financial Services,0
+WLDN,Industrials,0
+WLDS,Technology,0
+WLFC,Industrials,0
+WLTH,Technology,0
+WLY,Communication Services,0
+WLYB,Communication Services,0
+WMK,Consumer Defensive,0
+WNC,Industrials,0
+WNEB,Financial Services,0
+WNW,Consumer Cyclical,0
+WOK,Healthcare,0
+WOLF,Technology,0
+WOOF,Consumer Cyclical,0
+WOR,Industrials,0
+WPM,Basic Materials,0
+WPRT,Consumer Cyclical,0
+WRAP,Technology,0
+WRBY,Healthcare,0
+WRLD,Financial Services,0
+WRN,Basic Materials,0
+WS,Basic Materials,0
+WSBC,Financial Services,0
+WSBF,Financial Services,0
+WSBK,Financial Services,0
+WSC,Industrials,0
+WSE,Technology,0
+WSFS,Financial Services,0
+WSHP,Communication Services,0
+WSO-B,Industrials,0
+WT,Financial Services,0
+WTBA,Financial Services,0
+WTF,Financial Services,0
+WTI,Energy,0
+WTM,Financial Services,0
+WTTR,Energy,0
+WU,Financial Services,0
+WULF,Financial Services,0
+WVE,Healthcare,0
+WVVI,Consumer Defensive,0
+WW,Healthcare,0
+WWR,Basic Materials,0
+WWW,Consumer Cyclical,0
+WXM,Industrials,0
+WYFI,Technology,0
+WYY,Technology,0
+XAIR,Healthcare,0
+XBIO,Healthcare,0
+XBIT,Healthcare,0
+XBP,Technology,0
+XE,Industrials,0
+XELB,Consumer Cyclical,0
+XENE,Healthcare,0
+XERS,Healthcare,0
+XFLH,Financial Services,0
+XFOR,Healthcare,0
+XGN,Healthcare,0
+XHLD,Communication Services,0
+XHR,Real Estate,0
+XLAB,Technology,0
+XLO,Healthcare,0
+XMAX,Consumer Cyclical,0
+XMTR,Industrials,0
+XNCR,Healthcare,0
+XNDU,Technology,0
+XOS,Industrials,0
+XP,Financial Services,0
+XPEL,Consumer Cyclical,0
+XPER,Technology,0
+XPL,Basic Materials,0
+XPOF,Consumer Cyclical,0
+XPON,Industrials,0
+XPRO,Energy,0
+XRN,Real Estate,0
+XRTX,Healthcare,0
+XRX,Industrials,0
+XTND,__FAILED__,1
+XTNT,Healthcare,0
+XWEL,Healthcare,0
+XXI,Consumer Defensive,0
+XXII,Consumer Defensive,0
+XZO,Financial Services,0
+YAAS,Technology,0
+YARW,Healthcare,0
+YCBD,Healthcare,0
+YDDL,Industrials,0
+YDES,Healthcare,0
+YDKG,Communication Services,0
+YELP,Communication Services,0
+YEXT,Technology,0
+YFOR,__FAILED__,1
+YHC,Consumer Defensive,0
+YHGJ,Consumer Cyclical,0
+YIBO,Technology,0
+YICC,Financial Services,0
+YMAT,Basic Materials,0
+YORW,Utilities,0
+YOU,Technology,0
+YSWY,Consumer Defensive,0
+YSXT,Industrials,0
+YUMC,Consumer Cyclical,0
+Z,Communication Services,0
+ZBIO,Healthcare,0
+ZCMD,Healthcare,0
+ZD,Communication Services,0
+ZDAI,Industrials,0
+ZDGE,Communication Services,0
+ZENA,Technology,0
+ZETA,Technology,0
+ZG,Communication Services,0
+ZGN,Consumer Cyclical,0
+ZIM,Industrials,0
+ZIP,Communication Services,0
+ZJK,Industrials,0
+ZJYL,Healthcare,0
+ZKIN,Basic Materials,0
+ZM,Technology,0
+ZNB,Communication Services,0
+ZNTL,Healthcare,0
+ZONE,Industrials,0
+ZOOZ,Industrials,0
+ZS,Technology,0
+ZSQR,Technology,0
+ZSTK,Financial Services,0
+ZTG,Industrials,0
+ZUMZ,Consumer Cyclical,0
+ZURA,Healthcare,0
+ZVIA,Consumer Defensive,0
+ZVRA,Healthcare,0
+ZWS,Industrials,0
+ZYBT,Healthcare,0
+ZYME,Healthcare,0
+nan,__FAILED__,1
