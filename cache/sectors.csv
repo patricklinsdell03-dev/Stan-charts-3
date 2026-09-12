@@ -370,6 +370,7 @@ ATRC,Healthcare,0
 ATRO,Industrials,0
 ATS,Industrials,0
 ATTO,Healthcare,0
+ATTT,Consumer Defensive,0
 ATXG,Industrials,0
 AU,Basic Materials,0
 AUB,Financial Services,0
@@ -383,6 +384,7 @@ AUR,Consumer Cyclical,0
 AURA,Healthcare,0
 AURE,Financial Services,0
 AUST,Basic Materials,0
+AUXX,Basic Materials,0
 AVA,Utilities,0
 AVAH,Healthcare,0
 AVBC,Financial Services,0
@@ -536,6 +538,7 @@ BHRB,Financial Services,0
 BHST,Consumer Defensive,0
 BHV,Financial Services,0
 BHVN,Healthcare,0
+BIAF,Healthcare,0
 BID,Financial Services,0
 BIII,Financial Services,0
 BIO-B,Healthcare,0
@@ -649,6 +652,7 @@ BRR,Financial Services,0
 BRSL,Consumer Cyclical,0
 BRSP,Real Estate,0
 BRT,Real Estate,0
+BRTM,Financial Services,0
 BRTX,Healthcare,0
 BRUN,Technology,0
 BRVE,Healthcare,0
@@ -1344,6 +1348,7 @@ ENTX,Healthcare,0
 ENVA,Financial Services,0
 ENVB,Healthcare,0
 ENVX,Industrials,0
+EOCN,__FAILED__,1
 EOD,Financial Services,0
 EOI,Financial Services,0
 EOLS,Healthcare,0
@@ -1626,6 +1631,7 @@ GAIA,Communication Services,0
 GAIN,Financial Services,0
 GALT,Healthcare,0
 GAM,Financial Services,0
+GAME,Communication Services,0
 GANX,Healthcare,0
 GASS,Industrials,0
 GAU,Basic Materials,0
@@ -1691,6 +1697,7 @@ GIGM,Communication Services,0
 GIII,Consumer Cyclical,0
 GIL,Consumer Cyclical,0
 GILT,Technology,0
+GITS,Communication Services,0
 GIW,Financial Services,0
 GIX,Financial Services,0
 GIXI,Communication Services,0
@@ -1881,6 +1888,7 @@ HLIT,Technology,0
 HLLY,Consumer Cyclical,0
 HLMN,Industrials,0
 HLP,Basic Materials,0
+HLSQ,__FAILED__,1
 HLX,Energy,0
 HMC,Consumer Cyclical,0
 HMH,Energy,0
@@ -2036,6 +2044,7 @@ INAB,Healthcare,0
 INBK,Financial Services,0
 INBS,Healthcare,0
 INBX,Healthcare,0
+INCR,Healthcare,0
 INDB,Financial Services,0
 INDI,Technology,0
 INDO,Energy,0
@@ -2235,6 +2244,7 @@ KRNY,Financial Services,0
 KRO,Basic Materials,0
 KROS,Healthcare,0
 KRRO,Healthcare,0
+KRSA,Healthcare,0
 KRT,Consumer Cyclical,0
 KRUS,Consumer Cyclical,0
 KSCP,Industrials,0
@@ -2314,6 +2324,7 @@ LGL,Technology,0
 LGN,Industrials,0
 LGND,Healthcare,0
 LGPS,Industrials,0
+LGVN,Healthcare,0
 LHSW,Technology,0
 LICN,Industrials,0
 LIDR,Technology,0
@@ -2804,6 +2815,7 @@ NWL,Consumer Defensive,0
 NWN,Utilities,0
 NWPX,Basic Materials,0
 NX,Industrials,0
+NXAT,Industrials,0
 NXB,Consumer Cyclical,0
 NXDR,Communication Services,0
 NXDT,Real Estate,0
@@ -3000,6 +3012,7 @@ PFAI,Consumer Defensive,0
 PFIS,Financial Services,0
 PFLT,Financial Services,0
 PFS,Financial Services,0
+PFSA,Healthcare,0
 PFSI,Financial Services,0
 PFX,Financial Services,0
 PGC,Financial Services,0
@@ -3508,6 +3521,7 @@ SMR,Industrials,0
 SMRT,Technology,0
 SMSI,Technology,0
 SMTI,Healthcare,0
+SMTK,Technology,0
 SMWB,Technology,0
 SMX,Industrials,0
 SMXT,Technology,0
@@ -3642,6 +3656,7 @@ SWAG,Communication Services,0
 SWBI,Industrials,0
 SWIM,Industrials,0
 SWMR,Technology,0
+SWRD,Financial Services,0
 SWVL,Industrials,0
 SWZ,__FAILED__,1
 SXC,Basic Materials,0
@@ -4095,6 +4110,7 @@ XAIR,Healthcare,0
 XBIO,Healthcare,0
 XBIT,Healthcare,0
 XBP,Technology,0
+XCH,Industrials,0
 XE,Industrials,0
 XELB,Consumer Cyclical,0
 XENE,Healthcare,0
