@@ -318,6 +318,7 @@ ARXS,Industrials,0
 AS,Consumer Cyclical,0
 ASA,Financial Services,0
 ASAN,Technology,0
+ASBH,Financial Services,0
 ASBP,Healthcare,0
 ASC,Industrials,0
 ASG,Financial Services,0
@@ -740,6 +741,7 @@ CAI,Healthcare,0
 CAII,Financial Services,0
 CAKE,Consumer Cyclical,0
 CAL,Consumer Cyclical,0
+CALC,Healthcare,0
 CALM,Consumer Defensive,0
 CALX,Technology,0
 CALY,Consumer Cyclical,0
@@ -852,6 +854,7 @@ CHCO,Financial Services,0
 CHCT,Real Estate,0
 CHEC,Financial Services,0
 CHEF,Consumer Defensive,0
+CHGA,Real Estate,0
 CHGG,Consumer Defensive,0
 CHI,Financial Services,0
 CHKP,Technology,0
@@ -2878,6 +2881,7 @@ OMCL,Healthcare,0
 OMDA,Healthcare,0
 OMER,Healthcare,0
 OMF,Financial Services,0
+OMH,Real Estate,0
 OMSE,Energy,0
 ONCO,Healthcare,0
 ONDS,Technology,0
@@ -3928,6 +3932,7 @@ VALU,Financial Services,0
 VANI,Healthcare,0
 VATE,Industrials,0
 VBF,Financial Services,0
+VBIO,Healthcare,0
 VBNK,Financial Services,0
 VCEL,Healthcare,0
 VCIG,Industrials,0
@@ -4034,6 +4039,7 @@ WBI,Energy,0
 WBTN,Communication Services,0
 WBUY,Consumer Cyclical,0
 WBX,Technology,0
+WCCB,Financial Services,0
 WCN,Industrials,0
 WCT,Technology,0
 WD,Financial Services,0

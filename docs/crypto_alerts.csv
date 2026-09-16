@@ -23,12 +23,6 @@ INJ-USD,STOP LOSS,5.3027,"initial stop, below base support and the 30 week avera
 INJ-USD,BREAKEVEN,9.2798,move the stop to entry here
 INJ-USD,TARGET 1,12.6175,"measured move, sell part of the position (2.22R)"
 INJ-USD,TARGET 2,16.8545,second measured move (4.08R)
-UNI-USD,BUY STOP,0.0002,"breakout trigger, above the base pivot"
-UNI-USD,BUY LIMIT,0.0002,"pullback entry, old resistance acting as support"
-UNI-USD,STOP LOSS,0.0002,"initial stop, below base support and the 30 week average"
-UNI-USD,BREAKEVEN,0.0003,move the stop to entry here
-UNI-USD,TARGET 1,0.0004,"measured move, sell part of the position (2.22R)"
-UNI-USD,TARGET 2,0.0005,second measured move (4.08R)
 ETH-USD,BUY STOP,2627.7821,"breakout trigger, above the base pivot"
 ETH-USD,BUY LIMIT,2564.2744,"pullback entry, old resistance acting as support"
 ETH-USD,STOP LOSS,1839.4475,"initial stop, below base support and the 30 week average"
@@ -83,18 +77,18 @@ ARB-USD,STOP LOSS,0.0008,"initial stop, above base resistance and the 30 week av
 ARB-USD,BREAKEVEN,0.0005,move the stop to entry here
 ARB-USD,TARGET 1,0.0003,"measured move, sell part of the position (1.75R)"
 ARB-USD,TARGET 2,0.0001,second measured move (3.2R)
-DOGE-USD,SELL STOP,0.0647,"breakout trigger, below the base pivot"
-DOGE-USD,SELL LIMIT,0.068,"pullback entry, old support acting as resistance"
-DOGE-USD,STOP LOSS,0.0842,"initial stop, above base resistance and the 30 week average"
-DOGE-USD,BREAKEVEN,0.0502,move the stop to entry here
-DOGE-USD,TARGET 1,0.0177,"measured move, sell part of the position (2.42R)"
-DOGE-USD,TARGET 2,0.0017,second measured move (3.25R)
 ETC-USD,SELL STOP,5.7386,"breakout trigger, below the base pivot"
 ETC-USD,SELL LIMIT,6.0184,"pullback entry, old support acting as resistance"
 ETC-USD,STOP LOSS,7.4602,"initial stop, above base resistance and the 30 week average"
 ETC-USD,BREAKEVEN,4.4474,move the stop to entry here
 ETC-USD,TARGET 1,1.9851,"measured move, sell part of the position (2.18R)"
 ETC-USD,TARGET 2,0.1505,second measured move (3.25R)
+DOGE-USD,SELL STOP,0.0647,"breakout trigger, below the base pivot"
+DOGE-USD,SELL LIMIT,0.068,"pullback entry, old support acting as resistance"
+DOGE-USD,STOP LOSS,0.0842,"initial stop, above base resistance and the 30 week average"
+DOGE-USD,BREAKEVEN,0.0502,move the stop to entry here
+DOGE-USD,TARGET 1,0.0177,"measured move, sell part of the position (2.42R)"
+DOGE-USD,TARGET 2,0.0017,second measured move (3.25R)
 FIL-USD,BUY STOP,1.3619,"breakout trigger, above the base pivot"
 FIL-USD,BUY LIMIT,1.3191,"pullback entry, old resistance acting as support"
 FIL-USD,STOP LOSS,0.9533,"initial stop, below base support and the 30 week average"
