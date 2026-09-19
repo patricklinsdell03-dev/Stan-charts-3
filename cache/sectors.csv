@@ -1208,6 +1208,7 @@ DPRO,Technology,0
 DPU,__FAILED__,1
 DRH,Real Estate,0
 DRIO,Healthcare,0
+DRK,Technology,0
 DRMA,Healthcare,0
 DRS,Industrials,0
 DRTS,Healthcare,0
@@ -1402,6 +1403,7 @@ ETJ,Financial Services,0
 ETO,Financial Services,0
 ETON,Healthcare,0
 ETOR,Financial Services,0
+ETRA,Healthcare,0
 ETS,Industrials,0
 ETSS,Financial Services,0
 ETSY,Consumer Cyclical,0
@@ -1766,6 +1768,7 @@ GPMT,Real Estate,0
 GPOR,Energy,0
 GPRE,Basic Materials,0
 GPRK,Energy,0
+GPRO,Technology,0
 GPUS,Industrials,0
 GRAB,Technology,0
 GRAL,Healthcare,0
@@ -1910,6 +1913,7 @@ HOFT,Consumer Cyclical,0
 HOLO,Technology,0
 HOPE,Financial Services,0
 HOS,__FAILED__,1
+HOST,__FAILED__,1
 HOUR,Consumer Cyclical,0
 HOV,Consumer Cyclical,0
 HOVR,Industrials,0
@@ -1978,6 +1982,7 @@ IAUX,Basic Materials,0
 IBAC,Financial Services,0
 IBCP,Financial Services,0
 IBEX,Technology,0
+IBG,Consumer Defensive,0
 IBIO,Healthcare,0
 IBN,Financial Services,0
 IBO,Healthcare,0
@@ -2329,6 +2334,7 @@ LGN,Industrials,0
 LGND,Healthcare,0
 LGPS,Industrials,0
 LGVN,Healthcare,0
+LHAI,Real Estate,0
 LHSW,Technology,0
 LICN,Industrials,0
 LIDR,Technology,0
@@ -2867,6 +2873,7 @@ OGI,Healthcare,0
 OGN,Healthcare,0
 OI,Consumer Cyclical,0
 OIA,Financial Services,0
+OIG,Financial Services,0
 OII,Energy,0
 OIO,Industrials,0
 OIS,Energy,0
@@ -3224,6 +3231,7 @@ RCI,Communication Services,0
 RCKT,Healthcare,0
 RCKY,Consumer Cyclical,0
 RCMT,Industrials,0
+RCON,Energy,0
 RCUS,Healthcare,0
 RDAG,Financial Services,0
 RDCM,Communication Services,0
@@ -4129,6 +4137,7 @@ XFOR,Healthcare,0
 XGN,Healthcare,0
 XHLD,Communication Services,0
 XHR,Real Estate,0
+XIII,__FAILED__,1
 XLAB,Technology,0
 XLO,Healthcare,0
 XMAX,Consumer Cyclical,0

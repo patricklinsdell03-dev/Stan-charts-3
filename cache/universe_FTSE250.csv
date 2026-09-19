@@ -10,7 +10,6 @@ AO,AO World,Retail,FTSE250,UK,AO.L
 APN,Applied Nutrition,Food Producers,FTSE250,UK,APN.L
 ASHM,Ashmore Group,Financial Services,FTSE250,UK,ASHM.L
 AIE,Ashoka India Equity Investment Trust,Investment Trusts,FTSE250,UK,AIE.L
-AML,Aston Martin Lagonda,Automobiles & Parts,FTSE250,UK,AML.L
 ATYM,Atalaya Mining,Industrial Metals and Mining,FTSE250,UK,ATYM.L
 ATG,Auction Technology Group,Software and Computer Services,FTSE250,UK,ATG.L
 AGT,AVI Global Trust,Investment Trusts,FTSE250,UK,AGT.L
@@ -58,11 +57,11 @@ DOM,Domino's Pizza,Travel & Leisure,FTSE250,UK,DOM.L
 DRX,Drax Group,Electricity,FTSE250,UK,DRX.L
 DOCS,Dr. Martens,Retailers,FTSE250,UK,DOCS.L
 DNLM,Dunelm Group,Retailers,FTSE250,UK,DNLM.L
-EZJ,EasyJet,Travel and Leisure,FTSE250,UK,EZJ.L
 EDIN,Edinburgh Investment Trust,Investment Trusts,FTSE250,UK,EDIN.L
 EWI,Edinburgh Worldwide Investment Trust,Investment Trusts,FTSE250,UK,EWI.L
 ELM,Elementis,Chemicals,FTSE250,UK,ELM.L
 ENOG,Energean,Oil & Gas Producers,FTSE250,UK,ENOG.L
+ENT,Entain,Travel & leisure,FTSE250,UK,ENT.L
 ESCT,European Smaller Companies Trust,Investment Trusts,FTSE250,UK,ESCT.L
 EWG,Eurowag,Financial Services,FTSE250,UK,EWG.L
 FCSS,Fidelity China Special Situations,Investment Trusts,FTSE250,UK,FCSS.L
@@ -77,7 +76,6 @@ FRAS,Frasers Group,Retailers,FTSE250,UK,FRAS.L
 FCH,Funding Circle,Financial Services,FTSE250,UK,FCH.L
 GFRD,Galliford Try,Construction,FTSE250,UK,GFRD.L
 GAMA,Gamma Communications,Telecommunications,FTSE250,UK,GAMA.L
-GBG,GB Group,Software and Computer Services,FTSE250,UK,GBG.L
 GCP,GCP Infrastructure Investments,General Financial,FTSE250,UK,GCP.L
 GEN,Genuit Group,Construction & Materials,FTSE250,UK,GEN.L
 GNS,Genus,Pharmaceuticals & Biotechnology,FTSE250,UK,GNS.L
@@ -116,7 +114,6 @@ INPP,International Public Partnerships,Financial Services,FTSE250,UK,INPP.L
 IWG,International Workplace Group,Support Services,FTSE250,UK,IWG.L
 IAD,Invesco Asia Dragon Trust,Investment Trusts,FTSE250,UK,IAD.L
 IPO,IP Group,Financial Services,FTSE250,UK,IPO.L
-ITH,Ithaca Energy,Oil & Gas Producers,FTSE250,UK,ITH.L
 ITV,ITV,Media,FTSE250,UK,ITV.L
 JMAT,Johnson Matthey,Chemicals,FTSE250,UK,JMAT.L
 JSG,Johnson Service Group,Industrial Support Services,FTSE250,UK,JSG.L
@@ -139,6 +136,7 @@ MEGP,ME Group International,Leisure Goods,FTSE250,UK,MEGP.L
 MRC,Mercantile Investment Trust,Collective Investments,FTSE250,UK,MRC.L
 MRCH,Merchants Trust,Investment Trusts,FTSE250,UK,MRCH.L
 MTRO,Metro Bank,Banks,FTSE250,UK,MTRO.L
+PAGE,Michael Page,Support Services,FTSE250,UK,PAGE.L
 MAB,Mitchells & Butlers,Travel & Leisure,FTSE250,UK,MAB.L
 MTO,Mitie,Support Services,FTSE250,UK,MTO.L
 GROW,Molten Ventures,Financial Services,FTSE250,UK,GROW.L
@@ -150,8 +148,8 @@ MGAM,Morgan Advanced Materials,Electronic & Electrical Equipment,FTSE250,UK,MGAM
 MGNS,Morgan Sindall Group,Construction & Materials,FTSE250,UK,MGNS.L
 MUT,Murray Income Trust,Investment Trusts,FTSE250,UK,MUT.L
 MYI,Murray International Trust,Investment Trusts,FTSE250,UK,MYI.L
-NBPE,NB Private Equity Partners,Collective Investments,FTSE250,UK,NBPE.L
 NCC,NCC Group,Software and Computer Services,FTSE250,UK,NCC.L
+NBPE,Neuberger Private Equity Partners,Collective Investments,FTSE250,UK,NBPE.L
 N91,Ninety One,Financial Services,FTSE250,UK,N91.L
 NAIT,North American Income Trust,Investment Trusts,FTSE250,UK,NAIT.L
 NAS,North Atlantic Smaller Companies Investment Trust,Investment Trusts,FTSE250,UK,NAS.L
@@ -162,7 +160,6 @@ OXB,Oxford Biomedica,Pharmaceuticals and Biotechnology,FTSE250,UK,OXB.L
 OXIG,Oxford Instruments,Electronic & Electrical Equipment,FTSE250,UK,OXIG.L
 ONT,Oxford Nanopore Technologies,Health Care,FTSE250,UK,ONT.L
 PHI,Pacific Horizon Investment Trust,Investment Trusts,FTSE250,UK,PHI.L
-PAGE,PageGroup,Support Services,FTSE250,UK,PAGE.L
 PAF,Pan African Resources,Precious Metals and Mining,FTSE250,UK,PAF.L
 PINT,Pantheon Infrastructure,Investment Trusts,FTSE250,UK,PINT.L
 PIN,Pantheon International,Equity Investments,FTSE250,UK,PIN.L
@@ -170,8 +167,10 @@ PAG,Paragon Banking Group,Financial Services,FTSE250,UK,PAG.L
 PEY,Partners Group Private Equity,Investment Trusts,FTSE250,UK,PEY.L
 PPET,Patria Private Equity Trust,Financial Services,FTSE250,UK,PPET.L
 PNN,Pennon Group,"Gas, Water & Multiutilities",FTSE250,UK,PNN.L
+PSN,Persimmon,Household goods & home construction,FTSE250,UK,PSN.L
 PNL,Personal Assets Trust,Investment Trusts,FTSE250,UK,PNL.L
 PETS,Pets at Home,Retailers,FTSE250,UK,PETS.L
+PINE,Pinewood Technologies,Software and Computer Services,FTSE250,UK,PINE.L
 PTEC,Playtech,Software & Computer Services,FTSE250,UK,PTEC.L
 PLUS,Plus500,Financial Services,FTSE250,UK,PLUS.L
 PCGH,Polar Capital Global Healthcare Trust,Investment Trusts,FTSE250,UK,PCGH.L
@@ -237,6 +236,7 @@ VCT,Victrex,Chemicals,FTSE250,UK,VCT.L
 VEIL,Vietnam Enterprise Investments,General Financial,FTSE250,UK,VEIL.L
 VOF,VinaCapital Vietnam Opportunity Fund,General Financial,FTSE250,UK,VOF.L
 VTY,Vistry Group,Home Construction,FTSE250,UK,VTY.L
+VLX,Volex,Industrial Goods and Services,FTSE250,UK,VLX.L
 FAN,Volution Group,Construction & Materials,FTSE250,UK,FAN.L
 WOSG,Watches of Switzerland,Personal Goods,FTSE250,UK,WOSG.L
 JDW,Wetherspoons,Travel & Leisure,FTSE250,UK,JDW.L

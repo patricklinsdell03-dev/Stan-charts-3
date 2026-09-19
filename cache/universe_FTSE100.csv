@@ -31,8 +31,8 @@ CRDA,Croda International,Chemicals,FTSE100,UK,CRDA.L
 DCC,DCC Energy,Support services,FTSE100,UK,DCC.L
 DGE,Diageo,Beverages,FTSE100,UK,DGE.L
 DPLM,Diploma,Industrial Support services,FTSE100,UK,DPLM.L
+EZJ,EasyJet,Travel and Leisure,FTSE100,UK,EZJ.L
 EDV,Endeavour Mining,Mining,FTSE100,UK,EDV.L
-ENT,Entain,Travel & leisure,FTSE100,UK,ENT.L
 EXPN,Experian,Support services,FTSE100,UK,EXPN.L
 FCIT,F & C Investment Trust,Collective investments,FTSE100,UK,FCIT.L
 FRES,Fresnillo plc,Mining,FTSE100,UK,FRES.L
@@ -53,6 +53,7 @@ INF,Informa,Media,FTSE100,UK,INF.L
 IAG,International Airlines Group,Travel & leisure,FTSE100,UK,IAG.L
 ITRK,Intertek,Support services,FTSE100,UK,ITRK.L
 INVP,Investec,Financial Services,FTSE100,UK,INVP.L
+ITH,Ithaca Energy,Oil & Gas Producers,FTSE100,UK,ITH.L
 JD,JD Sports,General retailers,FTSE100,UK,JD.L
 BGEO,Lion Finance Group,Banking Services,FTSE100,UK,BGEO.L
 KGF,Kingfisher plc,Retailers,FTSE100,UK,KGF.L
@@ -70,7 +71,6 @@ NWG,NatWest Group,Banks,FTSE100,UK,NWG.L
 NXT,Next plc,General retailers,FTSE100,UK,NXT.L
 PSON,Pearson plc,Media,FTSE100,UK,PSON.L
 PSH,Pershing Square Holdings,Financial services,FTSE100,UK,PSH.L
-PSN,Persimmon,Household goods & home construction,FTSE100,UK,PSN.L
 PCT,Polar Capital Technology Trust,Investment trusts,FTSE100,UK,PCT.L
 PRU,Prudential plc,Life insurance,FTSE100,UK,PRU.L
 RKT,Reckitt,Household goods & home construction,FTSE100,UK,RKT.L

@@ -186,7 +186,6 @@ ALAB,"Astera Labs, Inc. - Common Stock",US,,USALL
 ALB,Albemarle Corporation Common Stock,US,,USALL
 ALC,Alcon Inc. Ordinary Shares,US,,USALL
 ALCO,"Alico, Inc. - Common Stock",US,,USALL
-ALDF,Aldel Financial II Inc. - Class A Ordinary Shares,US,,USALL
 ALDX,"Aldeyra Therapeutics, Inc. - Common Stock",US,,USALL
 ALEC,"Alector, Inc. - Common Stock",US,,USALL
 ALG,"Alamo Group, Inc. Common Stock",US,,USALL
@@ -284,7 +283,6 @@ ANRO,"Alto Neuroscience, Inc. Common Stock",US,,USALL
 ANTA,Antalpha Platform Holding Company - Class A Ordinary Shares,US,,USALL
 ANTX,"AN2 Therapeutics, Inc. - Common Stock",US,,USALL
 ANVS,"Annovis Bio, Inc. Common Stock",US,,USALL
-ANY,Sphere 3D Corp. - Common Shares,US,,USALL
 AOMR,"Angel Oak Mortgage REIT, Inc. Common Stock",US,,USALL
 AON,Aon plc Class A Ordinary Shares (Ireland),US,,USALL
 AORT,"Artivion, Inc. Common Stock",US,,USALL
@@ -492,7 +490,6 @@ BAND,Bandwidth Inc. - Class A Common Stock,US,,USALL
 BANF,BancFirst Corporation - Common Stock,US,,USALL
 BANL,CBL International Limited - Class B Ordinary Shares,US,,USALL
 BANR,Banner Corporation - Common Stock,US,,USALL
-BAOS,Baosheng Media Group Holdings Limited - Ordinary shares,US,,USALL
 BAP,Credicorp Ltd. Common Stock,US,,USALL
 BARK,"BARK, Inc. Class A Common Stock",US,,USALL
 BATL,Battalion Oil Corporation Common Stock,US,,USALL
@@ -506,7 +503,6 @@ BBCP,"Concrete Pumping Holdings, Inc.  - Common Stock",US,,USALL
 BBDC,"Barings BDC, Inc. Common Stock",US,,USALL
 BBGI,"Beasley Broadcast Group, Inc. - Class A Common Stock",US,,USALL
 BBIO,"BridgeBio Pharma, Inc. - Common Stock",US,,USALL
-BBLG,Bone Biologics Corp - Common Stock,US,,USALL
 BBNX,"Beta Bionics, Inc. - Common Stock",US,,USALL
 BBOT,"BridgeBio Oncology Therapeutics, Inc. - Common Stock",US,,USALL
 BBSI,"Barrett Business Services, Inc. - Common Stock",US,,USALL
@@ -597,7 +593,6 @@ BILL,"BILL Holdings, Inc. Common Stock",US,,USALL
 BIO,"Bio-Rad Laboratories, Inc. Class A Common Stock",US,,USALL
 BIO-B,"Bio-Rad Laboratories, Inc. Class B  Common Stock",US,,USALL
 BIOA,"BioAge Labs, Inc. - Common Stock",US,,USALL
-BIOT,Instinct Bio Technical Company Holdings Inc. - Common stock,US,,USALL
 BIPC,Brookfield Infrastructure Corporation Brookfield Infrastructure Corporation,US,,USALL
 BIRD,"Smartbird, Inc. - Class A Common Stock",US,,USALL
 BIRK,Birkenstock Holding plc Ordinary Shares,US,,USALL
@@ -1344,6 +1339,7 @@ DPZ,Domino's Pizza Inc - Common Stock,US,,USALL
 DRH,Diamondrock Hospitality Company - Common Stock,US,,USALL
 DRI,"Darden Restaurants, Inc. Common Stock",US,,USALL
 DRIO,DarioHealth Corp. - Common Stock,US,,USALL
+DRK,DarkHorse Technologies Inc. - Common Shares,US,,USALL
 DRMA,"Dermata Therapeutics, Inc. - Common Stock",US,,USALL
 DRS,"Leonardo DRS, Inc. - Common Stock",US,,USALL
 DRTS,Alpha Tau Medical Ltd. - Ordinary Shares,US,,USALL
@@ -1458,7 +1454,6 @@ ELLO,Ellomay Capital Ltd Ordinary Shares (Israel),US,,USALL
 ELMD,"Electromed, Inc. Common Stock",US,,USALL
 ELME,Elme Communities Common Stock,US,,USALL
 ELMT,The Elmet Group Co. - Common Stock,US,,USALL
-ELOG,Eastern International Ltd. - Ordinary Shares,US,,USALL
 ELOX,"Eloxx Pharmaceuticals, Inc. - Common Stock",US,,USALL
 ELPW,Elong Power Holding Limited - Class A Ordinary Shares,US,,USALL
 ELS,"Equity Lifestyle Properties, Inc. Common Stock",US,,USALL
@@ -1553,6 +1548,7 @@ ETO,Eaton Vance Tax-Advantage Global Dividend Opp Common Stock,US,,USALL
 ETON,"Eton Pharmaceuticals, Inc. - Common Stock",US,,USALL
 ETOR,eToro Group Ltd. - Class A Common Shares,US,,USALL
 ETR,Entergy Corporation Common Stock,US,,USALL
+ETRA,"Electra Therapeutics, Inc. - Common stock",US,,USALL
 ETS,Elite Express Holding Inc. - Class A Common Stock,US,,USALL
 ETSS,Energy Transition Special Opportunities Class A Ordinary Shares,US,,USALL
 ETSY,"Etsy, Inc. Common Stock",US,,USALL
@@ -1787,8 +1783,8 @@ FVCB,"FVCBankcorp, Inc. - Common Stock",US,,USALL
 FVR,"FrontView REIT, Inc. Common Stock",US,,USALL
 FVRR,"Fiverr International Ltd. Ordinary Shares, no par value",US,,USALL
 FWDI,"Forward Industries, Inc. - Common Stock",US,,USALL
-FWONA,Liberty Media Corporation - Series A Liberty Formula One Common Stock,US,,USALL
-FWONK,Liberty Media Corporation - Series C Liberty Formula One Common Stock,US,,USALL
+FWONA,Liberty Media Corporation - Series A Common Stock,US,,USALL
+FWONK,Liberty Media Corporation - Series C Common Stock,US,,USALL
 FWRD,Forward Air Corporation - Common Stock,US,,USALL
 FWRG,"First Watch Restaurant Group, Inc. - Common Stock",US,,USALL
 FXHO,UTime Limited - Class A Ordinary Shares,US,,USALL
@@ -1942,6 +1938,7 @@ GPN,Global Payments Inc. Common Stock,US,,USALL
 GPOR,Gulfport Energy Corporation Common Shares,US,,USALL
 GPRE,"Green Plains, Inc. - Common Stock",US,,USALL
 GPRK,Geopark Ltd Common Shares,US,,USALL
+GPRO,"GoPro, Inc. - Class A Common Stock",US,,USALL
 GPUS,"Hyperscale Data, Inc. Common Stock",US,,USALL
 GRAB,Grab Holdings Limited - Class A Ordinary Shares,US,,USALL
 GRAL,"GRAIL, Inc. - Common Stock",US,,USALL
@@ -2029,7 +2026,6 @@ HCKT,"The Hackett Group, Inc. - Common Stock",US,,USALL
 HCSG,"Healthcare Services Group, Inc. - Common Stock",US,,USALL
 HCTI,"Healthcare Triangle, Inc. - Common Stock",US,,USALL
 HCWB,HCW Biologics Inc. - Common Stock,US,,USALL
-HCWC,Healthy Choice Wellness Corp. Class A Common Stock,US,,USALL
 HD,"Home Depot, Inc. (The) Common Stock",US,,USALL
 HDB,HDFC Bank Limited Common Stock,US,,USALL
 HDRN,"Hadron Energy, Inc. - Common Stock",US,,USALL
@@ -2083,7 +2079,6 @@ HNNA,"Hennessy Advisors, Inc. - Common Stock",US,,USALL
 HNRG,Hallador Energy Company - Common Stock,US,,USALL
 HNST,"The Honest Company, Inc. - Common Stock",US,,USALL
 HNVR,"Hanover Bancorp, Inc. - Common Stock",US,,USALL
-HODO,House of Doge Inc. - Common Stock,US,,USALL
 HOFT,Hooker Furnishings Corporation - Common Stock,US,,USALL
 HOG,"Harley-Davidson, Inc. Common Stock",US,,USALL
 HOLO,MicroCloud Hologram Inc. - Ordinary Shares,US,,USALL
@@ -2093,6 +2088,7 @@ HONA,Honeywell Aerospace Inc. - Common Stock,US,,USALL
 HOOD,"Robinhood Markets, Inc. - Class A Common Stock",US,,USALL
 HOPE,"Hope Bancorp, Inc. - Common Stock",US,,USALL
 HOS,"Hornbeck Offshore Services, Inc. Common Stock",US,,USALL
+HOST,Host Digital Inc. Class A Common Stock,US,,USALL
 HOUR,"Hour Loop, Inc. - common stock",US,,USALL
 HOV,"Hovnanian Enterprises, Inc. Class A Common Stock",US,,USALL
 HOVR,New Horizon Aircraft Ltd. - Class A Ordinary Shares,US,,USALL
@@ -2167,6 +2163,7 @@ IART,Integra LifeSciences Holdings Corporation - Common Stock,US,,USALL
 IAUX,i-80 Gold Corp. Common Shares,US,,USALL
 IBCP,Independent Bank Corporation - Common Stock,US,,USALL
 IBEX,IBEX Limited - Common Share,US,,USALL
+IBG,Innovation Beverage Group Limited - Ordinary Shares,US,,USALL
 IBIO,"iBio, Inc. - Common Stock",US,,USALL
 IBKR,"Interactive Brokers Group, Inc. - Class A Common Stock",US,,USALL
 IBM,International Business Machines Corporation Common Stock,US,,USALL
@@ -2573,6 +2570,7 @@ LGND,Ligand Pharmaceuticals Incorporated - Common Stock,US,,USALL
 LGPS,LogProstyle Inc. Common Shares,US,,USALL
 LGVN,Longeveron Inc. - Class A Common stock,US,,USALL
 LH,Labcorp Holdings Inc. Common Stock,US,,USALL
+LHAI,Linkhome Holdings Inc. - Common stock,US,,USALL
 LHSW,Lianhe Sowell International Group Ltd - Class A Ordinary Shares,US,,USALL
 LHX,"L3Harris Technologies, Inc. Common Stock",US,,USALL
 LICN,Lichen International Limited - Class A Ordinary Shares,US,,USALL
@@ -3220,6 +3218,7 @@ OGS,"ONE Gas, Inc. Common Stock",US,,USALL
 OHI,"Omega Healthcare Investors, Inc. Common Stock",US,,USALL
 OI,"O-I Glass, Inc. Common Stock",US,,USALL
 OIA,Invesco Municipal Income Opportunities Trust Common Stock,US,,USALL
+OIG,Orion180 Insurance Group Inc. - Class A Common Stock,US,,USALL
 OII,"Oceaneering International, Inc. Common Stock",US,,USALL
 OIO,OIO Group - Ordinary Shares,US,,USALL
 OIS,"Oil States International, Inc. Common Stock",US,,USALL
@@ -3649,6 +3648,7 @@ RCKT,"Rocket Pharmaceuticals, Inc. - Common Stock",US,,USALL
 RCKY,"Rocky Brands, Inc. - Common Stock",US,,USALL
 RCL,Royal Caribbean Cruises Ltd. Common Stock,US,,USALL
 RCMT,"RCM Technologies, Inc. - Common Stock",US,,USALL
+RCON,"Recon Technology, Ltd. - Class A Ordinary Shares",US,,USALL
 RCUS,"Arcus Biosciences, Inc. Common Stock",US,,USALL
 RDAG,Republic Digital Acquisition Company - Class A Ordinary Shares,US,,USALL
 RDCM,Radcom Ltd. - Ordinary Shares,US,,USALL
@@ -3667,6 +3667,7 @@ RDZN,"Roadzen, Inc. - Ordinary Shares",US,,USALL
 REA,"Rare Earths Americas, Inc. Common Stock",US,,USALL
 REAL,"The RealReal, Inc. - Common Stock",US,,USALL
 REAX,Real REMAX Group Inc. - Common Stock,US,,USALL
+REBN,"Reborn Coffee, Inc. - Common Stock",US,,USALL
 RECT,Rectitude Holdings Ltd - Ordinary Shares,US,,USALL
 REED,"Reed's, Inc. Common Stock",US,,USALL
 REF,Reformation Inc. Common Stock,US,,USALL
@@ -4031,7 +4032,6 @@ SNT,Senstar Technologies Corporation - Common Shares,US,,USALL
 SNTG,Sentage Holdings Inc. - Class A Ordinary Shares,US,,USALL
 SNWV,"SANUWAVE Health, Inc. - Common Stock",US,,USALL
 SNX,TD SYNNEX Corporation Common Stock,US,,USALL
-SNYR,Synergy CHC Corp. - Common Stock,US,,USALL
 SO,Southern Company (The) Common Stock,US,,USALL
 SOAR,"Volato Group, Inc. Class A Common Stock",US,,USALL
 SOBO,South Bow Corporation Common Shares,US,,USALL
@@ -4756,9 +4756,9 @@ XFOR,"X4 Pharmaceuticals, Inc. - Common Stock",US,,USALL
 XGN,Exagen Inc. - Common Stock,US,,USALL
 XHLD,"TEN Holdings, Inc. - Common Stock",US,,USALL
 XHR,"Xenia Hotels & Resorts, Inc. Common Stock",US,,USALL
+XIII,Churchill Capital Corp XIII - Class A Ordinary Shares,US,,USALL
 XLAB,Exascale Labs Holdings Inc. - Class A Common Stock,US,,USALL
 XLO,"Xilio Therapeutics, Inc. - Common Stock",US,,USALL
-XMAX,"XMAX, Inc. - Common Stock",US,,USALL
 XMTR,"Xometry, Inc. - Class A Common Stock",US,,USALL
 XNCR,"Xencor, Inc. - Common Stock",US,,USALL
 XNDU,Xanadu Quantum Technologies Limited - Class B Subordinate Voting Shares,US,,USALL
