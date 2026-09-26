@@ -66,6 +66,7 @@ BIIB,Biogen,Health Care,SP500,US,BIIB
 BLK,BlackRock,Financials,SP500,US,BLK
 BX,Blackstone Inc.,Financials,SP500,US,BX
 XYZ,"Block, Inc.",Financials,SP500,US,XYZ
+BE,Bloom Energy,Industrials,SP500,US,BE
 BNY,BNY Mellon,Financials,SP500,US,BNY
 BA,Boeing,Industrials,SP500,US,BA
 BKNG,Booking Holdings,Consumer Discretionary,SP500,US,BKNG
@@ -75,7 +76,6 @@ AVGO,Broadcom,Information Technology,SP500,US,AVGO
 BR,Broadridge Financial Solutions,Industrials,SP500,US,BR
 BRO,Brown & Brown,Financials,SP500,US,BRO
 BF.B,Brown–Forman,Consumer Staples,SP500,US,BF-B
-BLDR,Builders FirstSource,Industrials,SP500,US,BLDR
 BG,Bunge Global,Consumer Staples,SP500,US,BG
 BXP,"BXP, Inc.",Real Estate,SP500,US,BXP
 CHRW,C.H. Robinson,Industrials,SP500,US,CHRW
@@ -178,6 +178,7 @@ ESS,Essex Property Trust,Real Estate,SP500,US,ESS
 EL,Estée Lauder Companies (The),Consumer Staples,SP500,US,EL
 EG,Everest Group,Financials,SP500,US,EG
 EVRG,Evergy,Utilities,SP500,US,EVRG
+P,Everpure,Information Technology,SP500,US,P
 ES,Eversource Energy,Utilities,SP500,US,ES
 EXC,Exelon,Utilities,SP500,US,EXC
 EXE,Expand Energy,Energy,SP500,US,EXE
@@ -246,6 +247,7 @@ IBM,IBM,Information Technology,SP500,US,IBM
 IEX,IDEX Corporation,Industrials,SP500,US,IEX
 IDXX,Idexx Laboratories,Health Care,SP500,US,IDXX
 ITW,Illinois Tool Works,Industrials,SP500,US,ITW
+ILMN,"Illumina, Inc.",Health Care,SP500,US,ILMN
 INCY,Incyte,Health Care,SP500,US,INCY
 IR,Ingersoll Rand,Industrials,SP500,US,IR
 PODD,Insulet Corporation,Health Care,SP500,US,PODD
@@ -316,7 +318,6 @@ MU,Micron Technology,Information Technology,SP500,US,MU
 MSFT,Microsoft,Information Technology,SP500,US,MSFT
 MAA,Mid-America Apartment Communities,Real Estate,SP500,US,MAA
 MRNA,Moderna,Health Care,SP500,US,MRNA
-TAP,Molson Coors Beverage Company,Consumer Staples,SP500,US,TAP
 MDLZ,Mondelez International,Consumer Staples,SP500,US,MDLZ
 MPWR,Monolithic Power Systems,Information Technology,SP500,US,MPWR
 MNST,Monster Beverage,Consumer Staples,SP500,US,MNST
@@ -443,7 +444,6 @@ TXT,Textron,Industrials,SP500,US,TXT
 TMO,Thermo Fisher Scientific,Health Care,SP500,US,TMO
 TJX,TJX Companies,Consumer Discretionary,SP500,US,TJX
 TKO,TKO Group Holdings,Communication Services,SP500,US,TKO
-TTD,Trade Desk (The),Communication Services,SP500,US,TTD
 TSCO,Tractor Supply,Consumer Discretionary,SP500,US,TSCO
 TT,Trane Technologies,Industrials,SP500,US,TT
 TDG,TransDigm Group,Industrials,SP500,US,TDG

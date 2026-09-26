@@ -1,199 +1,139 @@
 ticker,type,price,why
-LINK-USD,BUY STOP,13.6699,"breakout trigger, above the base pivot"
-LINK-USD,BUY LIMIT,13.3019,"pullback entry, old resistance acting as support"
-LINK-USD,STOP LOSS,9.5689,"initial stop, below base support and the 30 week average"
-LINK-USD,BREAKEVEN,16.7456,move the stop to entry here
-LINK-USD,TARGET 1,20.3059,"measured move, sell part of the position (1.62R)"
-LINK-USD,TARGET 2,25.9091,second measured move (2.98R)
-BTC-USD,BUY STOP,84349.2507,"breakout trigger, above the base pivot"
+LINK-USD,BUY STOP,14.0182,"breakout trigger, above the base pivot"
+LINK-USD,BUY LIMIT,13.6401,"pullback entry, old resistance acting as support"
+LINK-USD,STOP LOSS,9.8128,"initial stop, below base support and the 30 week average"
+LINK-USD,BREAKEVEN,17.1724,move the stop to entry here
+LINK-USD,TARGET 1,21.0214,"measured move, sell part of the position (1.67R)"
+LINK-USD,TARGET 2,26.9265,second measured move (3.07R)
+SOL-USD,BUY STOP,113.1153,"breakout trigger, above the base pivot"
+SOL-USD,BUY LIMIT,110.039,"pullback entry, old resistance acting as support"
+SOL-USD,STOP LOSS,79.1807,"initial stop, below base support and the 30 week average"
+SOL-USD,BREAKEVEN,138.5662,move the stop to entry here
+SOL-USD,TARGET 1,159.6633,"measured move, sell part of the position (1.37R)"
+SOL-USD,TARGET 2,199.3627,second measured move (2.54R)
+INJ-USD,BUY STOP,7.6131,"breakout trigger, above the base pivot"
+INJ-USD,BUY LIMIT,7.3213,"pullback entry, old resistance acting as support"
+INJ-USD,STOP LOSS,5.3292,"initial stop, below base support and the 30 week average"
+INJ-USD,BREAKEVEN,9.326,move the stop to entry here
+INJ-USD,TARGET 1,12.794,"measured move, sell part of the position (2.27R)"
+INJ-USD,TARGET 2,17.1722,second measured move (4.19R)
+NEAR-USD,BUY STOP,3.1958,"breakout trigger, above the base pivot"
+NEAR-USD,BUY LIMIT,3.0697,"pullback entry, old resistance acting as support"
+NEAR-USD,STOP LOSS,2.2371,"initial stop, below base support and the 30 week average"
+NEAR-USD,BREAKEVEN,3.9149,move the stop to entry here
+NEAR-USD,TARGET 1,5.5874,"measured move, sell part of the position (2.49R)"
+NEAR-USD,TARGET 2,7.6015,second measured move (4.6R)
+BTC-USD,BUY STOP,84362.4362,"breakout trigger, above the base pivot"
 BTC-USD,BUY LIMIT,82792.2109,"pullback entry, old resistance acting as support"
-BTC-USD,STOP LOSS,59718.7883,"initial stop, below base support and the 30 week average"
-BTC-USD,BREAKEVEN,102822.0975,move the stop to entry here
-BTC-USD,TARGET 1,111689.6478,"measured move, sell part of the position (1.11R)"
-BTC-USD,TARGET 2,134807.5974,second measured move (2.05R)
+BTC-USD,STOP LOSS,60198.7747,"initial stop, below base support and the 30 week average"
+BTC-USD,BREAKEVEN,102485.1824,move the stop to entry here
+BTC-USD,TARGET 1,112652.8957,"measured move, sell part of the position (1.17R)"
+BTC-USD,TARGET 2,136541.4436,second measured move (2.16R)
+ETH-USD,BUY STOP,2727.4103,"breakout trigger, above the base pivot"
+ETH-USD,BUY LIMIT,2663.0503,"pullback entry, old resistance acting as support"
+ETH-USD,STOP LOSS,1909.1872,"initial stop, below base support and the 30 week average"
+ETH-USD,BREAKEVEN,3341.0776,move the stop to entry here
+ETH-USD,TARGET 1,3819.5948,"measured move, sell part of the position (1.33R)"
+ETH-USD,TARGET 2,4744.8305,second measured move (2.47R)
 TRX-USD,BUY STOP,0.3808,"breakout trigger, above the base pivot"
 TRX-USD,BUY LIMIT,0.3763,"pullback entry, old resistance acting as support"
 TRX-USD,STOP LOSS,0.3179,"initial stop, below base support and the 30 week average"
 TRX-USD,BREAKEVEN,0.4281,move the stop to entry here
-TRX-USD,TARGET 1,0.4788,"measured move, sell part of the position (1.56R)"
-TRX-USD,TARGET 2,0.5608,second measured move (2.86R)
-INJ-USD,BUY STOP,7.5754,"breakout trigger, above the base pivot"
-INJ-USD,BUY LIMIT,7.3213,"pullback entry, old resistance acting as support"
-INJ-USD,STOP LOSS,5.3027,"initial stop, below base support and the 30 week average"
-INJ-USD,BREAKEVEN,9.2798,move the stop to entry here
-INJ-USD,TARGET 1,12.6175,"measured move, sell part of the position (2.22R)"
-INJ-USD,TARGET 2,16.8545,second measured move (4.08R)
-ETH-USD,BUY STOP,2627.7821,"breakout trigger, above the base pivot"
-ETH-USD,BUY LIMIT,2564.2744,"pullback entry, old resistance acting as support"
-ETH-USD,STOP LOSS,1839.4475,"initial stop, below base support and the 30 week average"
-ETH-USD,BREAKEVEN,3219.0331,move the stop to entry here
-ETH-USD,TARGET 1,3622.0431,"measured move, sell part of the position (1.26R)"
-ETH-USD,TARGET 2,4468.258,second measured move (2.33R)
-SOL-USD,BUY STOP,113.009,"breakout trigger, above the base pivot"
-SOL-USD,BUY LIMIT,110.039,"pullback entry, old resistance acting as support"
-SOL-USD,STOP LOSS,79.1063,"initial stop, below base support and the 30 week average"
-SOL-USD,BREAKEVEN,138.436,move the stop to entry here
-SOL-USD,TARGET 1,159.6633,"measured move, sell part of the position (1.38R)"
-SOL-USD,TARGET 2,199.3627,second measured move (2.55R)
-LTC-USD,BUY STOP,62.0442,"breakout trigger, above the base pivot"
+TRX-USD,TARGET 1,0.4744,"measured move, sell part of the position (1.48R)"
+TRX-USD,TARGET 2,0.5528,second measured move (2.73R)
+AAVE-USD,BUY STOP,149.9095,"breakout trigger, above the base pivot"
+AAVE-USD,BUY LIMIT,144.7257,"pullback entry, old resistance acting as support"
+AAVE-USD,STOP LOSS,104.9366,"initial stop, below base support and the 30 week average"
+AAVE-USD,BREAKEVEN,183.6391,move the stop to entry here
+AAVE-USD,TARGET 1,231.4044,"measured move, sell part of the position (1.81R)"
+AAVE-USD,TARGET 2,300.7473,second measured move (3.35R)
+LTC-USD,BUY STOP,62.0943,"breakout trigger, above the base pivot"
 LTC-USD,BUY LIMIT,60.5252,"pullback entry, old resistance acting as support"
-LTC-USD,STOP LOSS,43.4309,"initial stop, below base support and the 30 week average"
-LTC-USD,BREAKEVEN,76.0041,move the stop to entry here
+LTC-USD,STOP LOSS,43.466,"initial stop, below base support and the 30 week average"
+LTC-USD,BREAKEVEN,76.0655,move the stop to entry here
 LTC-USD,TARGET 1,81.6632,"measured move, sell part of the position (1.05R)"
 LTC-USD,TARGET 2,98.5736,second measured move (1.96R)
-ALGO-USD,BUY STOP,0.1431,"breakout trigger, above the base pivot"
+ALGO-USD,BUY STOP,0.1433,"breakout trigger, above the base pivot"
 ALGO-USD,BUY LIMIT,0.139,"pullback entry, old resistance acting as support"
-ALGO-USD,STOP LOSS,0.1002,"initial stop, below base support and the 30 week average"
-ALGO-USD,BREAKEVEN,0.1753,move the stop to entry here
-ALGO-USD,TARGET 1,0.2022,"measured move, sell part of the position (1.38R)"
-ALGO-USD,TARGET 2,0.2528,second measured move (2.55R)
-AAVE-USD,BUY STOP,149.6759,"breakout trigger, above the base pivot"
-AAVE-USD,BUY LIMIT,144.7257,"pullback entry, old resistance acting as support"
-AAVE-USD,STOP LOSS,104.7731,"initial stop, below base support and the 30 week average"
-AAVE-USD,BREAKEVEN,183.353,move the stop to entry here
-AAVE-USD,TARGET 1,231.4044,"measured move, sell part of the position (1.82R)"
-AAVE-USD,TARGET 2,300.7473,second measured move (3.36R)
-ICP-USD,BUY STOP,4.1876,"breakout trigger, above the base pivot"
+ALGO-USD,STOP LOSS,0.1003,"initial stop, below base support and the 30 week average"
+ALGO-USD,BREAKEVEN,0.1756,move the stop to entry here
+ALGO-USD,TARGET 1,0.2022,"measured move, sell part of the position (1.37R)"
+ALGO-USD,TARGET 2,0.2528,second measured move (2.54R)
+VET-USD,BUY STOP,0.0087,"breakout trigger, above the base pivot"
+VET-USD,BUY LIMIT,0.0085,"pullback entry, old resistance acting as support"
+VET-USD,STOP LOSS,0.0061,"initial stop, below base support and the 30 week average"
+VET-USD,BREAKEVEN,0.0107,move the stop to entry here
+VET-USD,TARGET 1,0.0126,"measured move, sell part of the position (1.48R)"
+VET-USD,TARGET 2,0.016,second measured move (2.75R)
+ICP-USD,BUY STOP,4.1886,"breakout trigger, above the base pivot"
 ICP-USD,BUY LIMIT,4.0723,"pullback entry, old resistance acting as support"
-ICP-USD,STOP LOSS,2.9313,"initial stop, below base support and the 30 week average"
-ICP-USD,BREAKEVEN,5.1298,move the stop to entry here
-ICP-USD,TARGET 1,7.4929,"measured move, sell part of the position (2.63R)"
-ICP-USD,TARGET 2,10.2294,second measured move (4.81R)
-VET-USD,BUY STOP,0.0092,"breakout trigger, above the base pivot"
-VET-USD,BUY LIMIT,0.0089,"pullback entry, old resistance acting as support"
-VET-USD,STOP LOSS,0.0064,"initial stop, below base support and the 30 week average"
-VET-USD,BREAKEVEN,0.0113,move the stop to entry here
-VET-USD,TARGET 1,0.0136,"measured move, sell part of the position (1.58R)"
-VET-USD,TARGET 2,0.0173,second measured move (2.93R)
+ICP-USD,STOP LOSS,2.9321,"initial stop, below base support and the 30 week average"
+ICP-USD,BREAKEVEN,5.1311,move the stop to entry here
+ICP-USD,TARGET 1,7.5724,"measured move, sell part of the position (2.69R)"
+ICP-USD,TARGET 2,10.3726,second measured move (4.92R)
 XLM-USD,BUY STOP,0.3047,"breakout trigger, above the base pivot"
 XLM-USD,BUY LIMIT,0.2966,"pullback entry, old resistance acting as support"
 XLM-USD,STOP LOSS,0.2133,"initial stop, below base support and the 30 week average"
-XLM-USD,BREAKEVEN,0.3733,move the stop to entry here
-XLM-USD,TARGET 1,0.4773,"measured move, sell part of the position (1.89R)"
-XLM-USD,TARGET 2,0.6218,second measured move (3.47R)
-ARB-USD,SELL STOP,0.0006,"breakout trigger, below the base pivot"
-ARB-USD,SELL LIMIT,0.0006,"pullback entry, old support acting as resistance"
-ARB-USD,STOP LOSS,0.0008,"initial stop, above base resistance and the 30 week average"
-ARB-USD,BREAKEVEN,0.0005,move the stop to entry here
-ARB-USD,TARGET 1,0.0003,"measured move, sell part of the position (1.75R)"
-ARB-USD,TARGET 2,0.0001,second measured move (3.2R)
-ETC-USD,SELL STOP,5.7386,"breakout trigger, below the base pivot"
-ETC-USD,SELL LIMIT,6.0184,"pullback entry, old support acting as resistance"
-ETC-USD,STOP LOSS,7.4602,"initial stop, above base resistance and the 30 week average"
-ETC-USD,BREAKEVEN,4.4474,move the stop to entry here
-ETC-USD,TARGET 1,1.9851,"measured move, sell part of the position (2.18R)"
-ETC-USD,TARGET 2,0.1505,second measured move (3.25R)
+XLM-USD,BREAKEVEN,0.3732,move the stop to entry here
+XLM-USD,TARGET 1,0.4833,"measured move, sell part of the position (1.95R)"
+XLM-USD,TARGET 2,0.6326,second measured move (3.59R)
 DOGE-USD,SELL STOP,0.0647,"breakout trigger, below the base pivot"
 DOGE-USD,SELL LIMIT,0.068,"pullback entry, old support acting as resistance"
 DOGE-USD,STOP LOSS,0.0842,"initial stop, above base resistance and the 30 week average"
 DOGE-USD,BREAKEVEN,0.0502,move the stop to entry here
 DOGE-USD,TARGET 1,0.0177,"measured move, sell part of the position (2.42R)"
 DOGE-USD,TARGET 2,0.0017,second measured move (3.25R)
-FIL-USD,BUY STOP,1.3619,"breakout trigger, above the base pivot"
+ARB-USD,SELL STOP,0.0006,"breakout trigger, below the base pivot"
+ARB-USD,SELL LIMIT,0.0006,"pullback entry, old support acting as resistance"
+ARB-USD,STOP LOSS,0.0008,"initial stop, above base resistance and the 30 week average"
+ARB-USD,BREAKEVEN,0.0005,move the stop to entry here
+ARB-USD,TARGET 1,0.0003,"measured move, sell part of the position (1.86R)"
+ARB-USD,TARGET 2,0.0001,second measured move (3.38R)
+FIL-USD,BUY STOP,1.3651,"breakout trigger, above the base pivot"
 FIL-USD,BUY LIMIT,1.3191,"pullback entry, old resistance acting as support"
-FIL-USD,STOP LOSS,0.9533,"initial stop, below base support and the 30 week average"
-FIL-USD,BREAKEVEN,1.6683,move the stop to entry here
-FIL-USD,TARGET 1,2.0241,"measured move, sell part of the position (1.62R)"
-FIL-USD,TARGET 2,2.5882,second measured move (3.0R)
-HBAR-USD,SELL STOP,0.0614,"breakout trigger, below the base pivot"
-HBAR-USD,SELL LIMIT,0.0643,"pullback entry, old support acting as resistance"
-HBAR-USD,STOP LOSS,0.0798,"initial stop, above base resistance and the 30 week average"
-HBAR-USD,BREAKEVEN,0.0476,move the stop to entry here
-HBAR-USD,TARGET 1,0.0191,"measured move, sell part of the position (2.3R)"
-HBAR-USD,TARGET 2,0.0016,second measured move (3.25R)
-AVAX-USD,SELL STOP,5.3938,"breakout trigger, below the base pivot"
-AVAX-USD,SELL LIMIT,5.6936,"pullback entry, old support acting as resistance"
-AVAX-USD,STOP LOSS,7.012,"initial stop, above base resistance and the 30 week average"
-AVAX-USD,BREAKEVEN,4.1802,move the stop to entry here
-AVAX-USD,TARGET 1,0.871,"measured move, sell part of the position (2.8R)"
-AVAX-USD,TARGET 2,0.1423,second measured move (3.25R)
-ATOM-USD,SELL STOP,1.1502,"breakout trigger, below the base pivot"
-ATOM-USD,SELL LIMIT,1.2151,"pullback entry, old support acting as resistance"
-ATOM-USD,STOP LOSS,1.4953,"initial stop, above base resistance and the 30 week average"
-ATOM-USD,BREAKEVEN,0.8914,move the stop to entry here
-ATOM-USD,TARGET 1,0.0608,"measured move, sell part of the position (3.16R)"
-ATOM-USD,TARGET 2,0.0304,second measured move (3.25R)
-ADA-USD,SELL STOP,0.1282,"breakout trigger, below the base pivot"
-ADA-USD,SELL LIMIT,0.1387,"pullback entry, old support acting as resistance"
-ADA-USD,STOP LOSS,0.1667,"initial stop, above base resistance and the 30 week average"
-ADA-USD,BREAKEVEN,0.0994,move the stop to entry here
-ADA-USD,TARGET 1,0.0069,"measured move, sell part of the position (3.15R)"
-ADA-USD,TARGET 2,0.0035,second measured move (3.24R)
-SUI20947-USD,SELL STOP,0.5977,"breakout trigger, below the base pivot"
-SUI20947-USD,SELL LIMIT,0.6393,"pullback entry, old support acting as resistance"
-SUI20947-USD,STOP LOSS,0.777,"initial stop, above base resistance and the 30 week average"
-SUI20947-USD,BREAKEVEN,0.4632,move the stop to entry here
-SUI20947-USD,TARGET 1,0.032,"measured move, sell part of the position (3.16R)"
-SUI20947-USD,TARGET 2,0.016,second measured move (3.24R)
-DOT-USD,SELL STOP,0.6787,"breakout trigger, below the base pivot"
-DOT-USD,SELL LIMIT,0.7278,"pullback entry, old support acting as resistance"
-DOT-USD,STOP LOSS,0.8824,"initial stop, above base resistance and the 30 week average"
-DOT-USD,BREAKEVEN,0.526,move the stop to entry here
-DOT-USD,TARGET 1,0.0364,"measured move, sell part of the position (3.15R)"
-DOT-USD,TARGET 2,0.0182,second measured move (3.24R)
-BCH-USD,SELL STOP,169.9927,"breakout trigger, below the base pivot"
+FIL-USD,STOP LOSS,0.9555,"initial stop, below base support and the 30 week average"
+FIL-USD,BREAKEVEN,1.6722,move the stop to entry here
+FIL-USD,TARGET 1,2.0241,"measured move, sell part of the position (1.61R)"
+FIL-USD,TARGET 2,2.5882,second measured move (2.99R)
+SUI20947-USD,BUY STOP,1.4489,"breakout trigger, above the base pivot"
+SUI20947-USD,BUY LIMIT,1.406,"pullback entry, old resistance acting as support"
+SUI20947-USD,STOP LOSS,1.0142,"initial stop, below base support and the 30 week average"
+SUI20947-USD,BREAKEVEN,1.7749,move the stop to entry here
+SUI20947-USD,TARGET 1,2.1726,"measured move, sell part of the position (1.66R)"
+SUI20947-USD,TARGET 2,2.7859,second measured move (3.08R)
+OP-USD,BUY STOP,0.1992,"breakout trigger, above the base pivot"
+OP-USD,BUY LIMIT,0.1916,"pullback entry, old resistance acting as support"
+OP-USD,STOP LOSS,0.1394,"initial stop, below base support and the 30 week average"
+OP-USD,BREAKEVEN,0.2441,move the stop to entry here
+OP-USD,TARGET 1,0.3025,"measured move, sell part of the position (1.73R)"
+OP-USD,TARGET 2,0.3912,second measured move (3.21R)
+BCH-USD,SELL STOP,169.8979,"breakout trigger, below the base pivot"
 BCH-USD,SELL LIMIT,181.2419,"pullback entry, old support acting as resistance"
-BCH-USD,STOP LOSS,220.9905,"initial stop, above base resistance and the 30 week average"
-BCH-USD,BREAKEVEN,131.7443,move the stop to entry here
+BCH-USD,STOP LOSS,220.8673,"initial stop, above base resistance and the 30 week average"
+BCH-USD,BREAKEVEN,131.6709,move the stop to entry here
 BCH-USD,TARGET 1,9.0621,"measured move, sell part of the position (3.16R)"
 BCH-USD,TARGET 2,4.531,second measured move (3.24R)
 ARB-USD,SELL STOP,0.0006,"breakout trigger, below the base pivot"
 ARB-USD,SELL LIMIT,0.0006,"pullback entry, old support acting as resistance"
 ARB-USD,STOP LOSS,0.0008,"initial stop, above base resistance and the 30 week average"
 ARB-USD,BREAKEVEN,0.0005,move the stop to entry here
-ARB-USD,TARGET 1,0.0003,"measured move, sell part of the position (1.75R)"
-ARB-USD,TARGET 2,0.0001,second measured move (3.2R)
-HBAR-USD,SELL STOP,0.0614,"breakout trigger, below the base pivot"
-HBAR-USD,SELL LIMIT,0.0643,"pullback entry, old support acting as resistance"
-HBAR-USD,STOP LOSS,0.0798,"initial stop, above base resistance and the 30 week average"
-HBAR-USD,BREAKEVEN,0.0476,move the stop to entry here
-HBAR-USD,TARGET 1,0.0191,"measured move, sell part of the position (2.3R)"
-HBAR-USD,TARGET 2,0.0016,second measured move (3.25R)
-ATOM-USD,SELL STOP,1.1502,"breakout trigger, below the base pivot"
-ATOM-USD,SELL LIMIT,1.2151,"pullback entry, old support acting as resistance"
-ATOM-USD,STOP LOSS,1.4953,"initial stop, above base resistance and the 30 week average"
-ATOM-USD,BREAKEVEN,0.8914,move the stop to entry here
-ATOM-USD,TARGET 1,0.0608,"measured move, sell part of the position (3.16R)"
-ATOM-USD,TARGET 2,0.0304,second measured move (3.25R)
-ETC-USD,SELL STOP,5.7386,"breakout trigger, below the base pivot"
-ETC-USD,SELL LIMIT,6.0184,"pullback entry, old support acting as resistance"
-ETC-USD,STOP LOSS,7.4602,"initial stop, above base resistance and the 30 week average"
-ETC-USD,BREAKEVEN,4.4474,move the stop to entry here
-ETC-USD,TARGET 1,1.9851,"measured move, sell part of the position (2.18R)"
-ETC-USD,TARGET 2,0.1505,second measured move (3.25R)
+ARB-USD,TARGET 1,0.0003,"measured move, sell part of the position (1.86R)"
+ARB-USD,TARGET 2,0.0001,second measured move (3.38R)
 DOGE-USD,SELL STOP,0.0647,"breakout trigger, below the base pivot"
 DOGE-USD,SELL LIMIT,0.068,"pullback entry, old support acting as resistance"
 DOGE-USD,STOP LOSS,0.0842,"initial stop, above base resistance and the 30 week average"
 DOGE-USD,BREAKEVEN,0.0502,move the stop to entry here
 DOGE-USD,TARGET 1,0.0177,"measured move, sell part of the position (2.42R)"
 DOGE-USD,TARGET 2,0.0017,second measured move (3.25R)
-AVAX-USD,SELL STOP,5.3938,"breakout trigger, below the base pivot"
-AVAX-USD,SELL LIMIT,5.6936,"pullback entry, old support acting as resistance"
-AVAX-USD,STOP LOSS,7.012,"initial stop, above base resistance and the 30 week average"
-AVAX-USD,BREAKEVEN,4.1802,move the stop to entry here
-AVAX-USD,TARGET 1,0.871,"measured move, sell part of the position (2.8R)"
-AVAX-USD,TARGET 2,0.1423,second measured move (3.25R)
-DOT-USD,SELL STOP,0.6787,"breakout trigger, below the base pivot"
-DOT-USD,SELL LIMIT,0.7278,"pullback entry, old support acting as resistance"
-DOT-USD,STOP LOSS,0.8824,"initial stop, above base resistance and the 30 week average"
-DOT-USD,BREAKEVEN,0.526,move the stop to entry here
-DOT-USD,TARGET 1,0.0364,"measured move, sell part of the position (3.15R)"
-DOT-USD,TARGET 2,0.0182,second measured move (3.24R)
-ADA-USD,SELL STOP,0.1282,"breakout trigger, below the base pivot"
-ADA-USD,SELL LIMIT,0.1387,"pullback entry, old support acting as resistance"
-ADA-USD,STOP LOSS,0.1667,"initial stop, above base resistance and the 30 week average"
-ADA-USD,BREAKEVEN,0.0994,move the stop to entry here
-ADA-USD,TARGET 1,0.0069,"measured move, sell part of the position (3.15R)"
-ADA-USD,TARGET 2,0.0035,second measured move (3.24R)
-FIL-USD,BUY STOP,1.3619,"breakout trigger, above the base pivot"
-FIL-USD,BUY LIMIT,1.3191,"pullback entry, old resistance acting as support"
-FIL-USD,STOP LOSS,0.9533,"initial stop, below base support and the 30 week average"
-FIL-USD,BREAKEVEN,1.6683,move the stop to entry here
-FIL-USD,TARGET 1,2.0241,"measured move, sell part of the position (1.62R)"
-FIL-USD,TARGET 2,2.5882,second measured move (3.0R)
-VET-USD,BUY STOP,0.0092,"breakout trigger, above the base pivot"
-VET-USD,BUY LIMIT,0.0089,"pullback entry, old resistance acting as support"
-VET-USD,STOP LOSS,0.0064,"initial stop, below base support and the 30 week average"
-VET-USD,BREAKEVEN,0.0113,move the stop to entry here
-VET-USD,TARGET 1,0.0136,"measured move, sell part of the position (1.58R)"
-VET-USD,TARGET 2,0.0173,second measured move (2.93R)
+SUI20947-USD,BUY STOP,1.4489,"breakout trigger, above the base pivot"
+SUI20947-USD,BUY LIMIT,1.406,"pullback entry, old resistance acting as support"
+SUI20947-USD,STOP LOSS,1.0142,"initial stop, below base support and the 30 week average"
+SUI20947-USD,BREAKEVEN,1.7749,move the stop to entry here
+SUI20947-USD,TARGET 1,2.1726,"measured move, sell part of the position (1.66R)"
+SUI20947-USD,TARGET 2,2.7859,second measured move (3.08R)
+OP-USD,BUY STOP,0.1992,"breakout trigger, above the base pivot"
+OP-USD,BUY LIMIT,0.1916,"pullback entry, old resistance acting as support"
+OP-USD,STOP LOSS,0.1394,"initial stop, below base support and the 30 week average"
+OP-USD,BREAKEVEN,0.2441,move the stop to entry here
+OP-USD,TARGET 1,0.3025,"measured move, sell part of the position (1.73R)"
+OP-USD,TARGET 2,0.3912,second measured move (3.21R)

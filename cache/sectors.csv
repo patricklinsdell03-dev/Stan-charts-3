@@ -71,6 +71,7 @@ ADIG,Technology,0
 ADMA,Healthcare,0
 ADNT,Consumer Cyclical,0
 ADPT,Healthcare,0
+ADRX,Healthcare,0
 ADSE,Industrials,0
 ADT,Industrials,0
 ADTN,Technology,0
@@ -191,6 +192,7 @@ ALNT,Technology,0
 ALNY,Healthcare,0
 ALOV,Financial Services,0
 ALOY,Basic Materials,0
+ALP,Financial Services,0
 ALPX,Financial Services,0
 ALRM,Technology,0
 ALRS,Financial Services,0
@@ -469,6 +471,7 @@ BCAX,Healthcare,0
 BCBP,Financial Services,0
 BCC,Basic Materials,0
 BCCQ,Financial Services,0
+BCDA,Healthcare,0
 BCE,Communication Services,0
 BCG,Financial Services,0
 BCH,Financial Services,0
@@ -568,6 +571,7 @@ BL,Technology,0
 BLBD,Industrials,0
 BLCO,Healthcare,0
 BLDP,Industrials,0
+BLDR,Industrials,0
 BLFS,Healthcare,0
 BLIN,Technology,0
 BLIV,Technology,0
@@ -896,6 +900,7 @@ CLDI,Healthcare,0
 CLDT,Real Estate,0
 CLDX,Healthcare,0
 CLFD,Technology,0
+CLGN,Healthcare,0
 CLIK,Consumer Cyclical,0
 CLIR,Industrials,0
 CLM,Financial Services,0
@@ -986,6 +991,7 @@ CPHI,Healthcare,0
 CPIX,Healthcare,0
 CPK,Utilities,0
 CPNG,Consumer Cyclical,0
+CPRI,Consumer Cyclical,0
 CPS,Consumer Cyclical,0
 CPSH,Technology,0
 CPSS,Financial Services,0
@@ -1396,6 +1402,7 @@ ESQ,Financial Services,0
 ESRT,Real Estate,0
 ESTA,Healthcare,0
 ESTC,Technology,0
+ESYN,Consumer Cyclical,0
 ETB,Financial Services,0
 ETD,Consumer Cyclical,0
 ETG,Financial Services,0
@@ -1512,6 +1519,7 @@ FISI,Financial Services,0
 FISN,Industrials,0
 FIVN,Technology,0
 FIZZ,Consumer Defensive,0
+FJDI,Financial Services,0
 FJET,Industrials,0
 FKWL,Technology,0
 FLC,Financial Services,0
@@ -1759,6 +1767,7 @@ GOLF,Consumer Cyclical,0
 GOOD,Real Estate,0
 GOOS,Consumer Cyclical,0
 GORO,Basic Materials,0
+GOSS,Healthcare,0
 GP,Industrials,0
 GPAC,Financial Services,0
 GPAT,Financial Services,0
@@ -1806,7 +1815,9 @@ GSM,Basic Materials,0
 GSRF,Financial Services,0
 GSRV,Financial Services,0
 GT,Consumer Cyclical,0
+GTBP,Healthcare,0
 GTE,Energy,0
+GTEC,Consumer Cyclical,0
 GTEN,Financial Services,0
 GTERA,Financial Services,0
 GTES,Industrials,0
@@ -1948,6 +1959,7 @@ HTOO,Utilities,0
 HTZ,Industrials,0
 HUBC,Technology,0
 HUBS,Technology,0
+HUCK,Technology,0
 HUHU,Industrials,0
 HUN,Basic Materials,0
 HURA,Healthcare,0
@@ -2035,6 +2047,7 @@ ILLU,Financial Services,0
 IMA,Healthcare,0
 IMAX,Communication Services,0
 IMC,Basic Materials,0
+IMCC,Healthcare,0
 IMDX,Healthcare,0
 IMKTA,Consumer Defensive,0
 IMMR,Technology,0
@@ -2344,6 +2357,7 @@ LIFE,Financial Services,0
 LILA,Communication Services,0
 LILAK,Communication Services,0
 LIME,Industrials,0
+LIMN,Healthcare,0
 LINC,Consumer Defensive,0
 LIND,Consumer Cyclical,0
 LINE,Real Estate,0
@@ -2821,6 +2835,7 @@ NVS,Healthcare,0
 NVTS,Technology,0
 NWAX,Financial Services,0
 NWBI,Financial Services,0
+NWCL,Industrials,0
 NWFL,Financial Services,0
 NWL,Consumer Defensive,0
 NWN,Utilities,0
@@ -2893,6 +2908,7 @@ OMSE,Energy,0
 ONCO,Healthcare,0
 ONDS,Technology,0
 ONEG,Industrials,0
+ONEN,Utilities,0
 ONEW,Consumer Cyclical,0
 ONIT,Financial Services,0
 ONL,Real Estate,0
@@ -3376,6 +3392,7 @@ SAGU,Financial Services,0
 SAH,Consumer Cyclical,0
 SAIH,Technology,0
 SAIL,Technology,0
+SAM,Consumer Defensive,0
 SAMG,Financial Services,0
 SAN,Financial Services,0
 SANA,Healthcare,0
@@ -3663,6 +3680,7 @@ SUPX,Technology,0
 SVA,__FAILED__,1
 SVCC,Financial Services,0
 SVCO,Technology,0
+SVIA,Financial Services,0
 SVM,Basic Materials,0
 SVRA,Healthcare,0
 SVV,Consumer Cyclical,0
@@ -3686,8 +3704,10 @@ SYRE,Healthcare,0
 TAC,Utilities,0
 TACT,Technology,0
 TALO,Energy,0
+TANH,Consumer Defensive,0
 TAOP,Technology,0
 TAOX,Financial Services,0
+TAP,Consumer Defensive,0
 TAP-A,Consumer Defensive,0
 TARA,Healthcare,0
 TARS,Healthcare,0
@@ -3715,6 +3735,7 @@ TDF,Financial Services,0
 TDIC,Communication Services,0
 TDOC,Healthcare,0
 TDS,Communication Services,0
+TDTH,Technology,0
 TDUP,Consumer Cyclical,0
 TDW,Energy,0
 TE,Industrials,0
@@ -3845,6 +3866,7 @@ TSQ,Communication Services,0
 TSSI,Technology,0
 TTAM,Basic Materials,0
 TTAN,Technology,0
+TTD,Communication Services,0
 TTE,Energy,0
 TTEC,Technology,0
 TTGT,Technology,0
@@ -4179,7 +4201,9 @@ YORW,Utilities,0
 YOU,Technology,0
 YSWY,Consumer Defensive,0
 YSXT,Industrials,0
+YTRA,Consumer Cyclical,0
 YUMC,Consumer Cyclical,0
+YYAI,Technology,0
 Z,Communication Services,0
 ZBIO,Healthcare,0
 ZCMD,Healthcare,0
