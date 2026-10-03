@@ -12,9 +12,9 @@ AUTO,Autotrader Group,Media,FTSE100,UK,AUTO.L
 AV,Aviva,Life insurance,FTSE100,UK,AV.L
 BAB,Babcock International,Aerospace & defence,FTSE100,UK,BAB.L
 BA,BAE Systems,Aerospace & defence,FTSE100,UK,BA.L
+BBY,Balfour Beatty,Construction & Materials,FTSE100,UK,BBY.L
 BARC,Barclays,Banks,FTSE100,UK,BARC.L
 BTRW,Barratt Redrow,Household goods & home construction,FTSE100,UK,BTRW.L
-BEZ,Beazley,Insurance,FTSE100,UK,BEZ.L
 BP,BP,Oil & gas producers,FTSE100,UK,BP.L
 BATS,British American Tobacco,Tobacco,FTSE100,UK,BATS.L
 BLND,British Land,Real estate,FTSE100,UK,BLND.L
@@ -80,7 +80,6 @@ RIO,Rio Tinto,Mining,FTSE100,UK,RIO.L
 RR,Rolls-Royce Holdings,Aerospace & defence,FTSE100,UK,RR.L
 SGE,Sage Group,Software & computer services,FTSE100,UK,SGE.L
 SBRY,Sainsbury's,Food & drug retailing,FTSE100,UK,SBRY.L
-SDR,Schroders,Financial services,FTSE100,UK,SDR.L
 SMT,Scottish Mortgage Investment Trust,Collective investments,FTSE100,UK,SMT.L
 SGRO,Segro,Real estate investment trusts,FTSE100,UK,SGRO.L
 SVT,Severn Trent,Multiline utilities,FTSE100,UK,SVT.L
@@ -99,3 +98,4 @@ UU,United Utilities,Multiline utilities,FTSE100,UK,UU.L
 VOD,Vodafone Group,Mobile telecommunications,FTSE100,UK,VOD.L
 WEIR,Weir,Industrial goods and services,FTSE100,UK,WEIR.L
 WTB,Whitbread,Retail hospitality,FTSE100,UK,WTB.L
+WPP,WPP,Media,FTSE100,UK,WPP.L

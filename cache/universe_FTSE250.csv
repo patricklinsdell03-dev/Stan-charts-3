@@ -10,6 +10,7 @@ AO,AO World,Retail,FTSE250,UK,AO.L
 APN,Applied Nutrition,Food Producers,FTSE250,UK,APN.L
 ASHM,Ashmore Group,Financial Services,FTSE250,UK,ASHM.L
 AIE,Ashoka India Equity Investment Trust,Investment Trusts,FTSE250,UK,AIE.L
+ASC,ASOS,Retailers,FTSE250,UK,ASC.L
 ATYM,Atalaya Mining,Industrial Metals and Mining,FTSE250,UK,ATYM.L
 ATG,Auction Technology Group,Software and Computer Services,FTSE250,UK,ATG.L
 AGT,AVI Global Trust,Investment Trusts,FTSE250,UK,AGT.L
@@ -17,7 +18,6 @@ AVON,Avon Technologies,Industrial Goods and Services,FTSE250,UK,AVON.L
 BME,B&M,Retailers,FTSE250,UK,BME.L
 BGFD,Baillie Gifford Japan Trust,Investment Trusts,FTSE250,UK,BGFD.L
 USA,Baillie Gifford US Growth Trust,Investment Trusts,FTSE250,UK,USA.L
-BBY,Balfour Beatty,Construction & Materials,FTSE250,UK,BBY.L
 BCG,Baltic Classifieds,Consumer Digital Services,FTSE250,UK,BCG.L
 BNKR,Bankers Investment Trust,Investment Trusts,FTSE250,UK,BNKR.L
 BAG,A.G. Barr,Beverages,FTSE250,UK,BAG.L
@@ -135,6 +135,7 @@ EMG,Man Group,Investment Trusts,FTSE250,UK,EMG.L
 MEGP,ME Group International,Leisure Goods,FTSE250,UK,MEGP.L
 MRC,Mercantile Investment Trust,Collective Investments,FTSE250,UK,MRC.L
 MRCH,Merchants Trust,Investment Trusts,FTSE250,UK,MRCH.L
+MNO,Meridian Mining,Industrial Metals and Mining,FTSE250,UK,MNO.L
 MTRO,Metro Bank,Banks,FTSE250,UK,MTRO.L
 PAGE,Michael Page,Support Services,FTSE250,UK,PAGE.L
 MAB,Mitchells & Butlers,Travel & Leisure,FTSE250,UK,MAB.L
@@ -245,7 +246,6 @@ WIX,Wickes,Retailers,FTSE250,UK,WIX.L
 WIZZ,Wizz Air,Travel & Leisure,FTSE250,UK,WIZZ.L
 WKP,Workspace Group,Real Estate Investment Trusts,FTSE250,UK,WKP.L
 WWH,Worldwide Healthcare Trust,Investment Trusts,FTSE250,UK,WWH.L
-WPP,WPP,Media,FTSE250,UK,WPP.L
 XPP,XP Power,Industrial Goods and Services,FTSE250,UK,XPP.L
 XPS,XPS Pensions,Financial Services,FTSE250,UK,XPS.L
 ZIG,Zigup,Support Services,FTSE250,UK,ZIG.L
