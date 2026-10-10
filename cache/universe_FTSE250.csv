@@ -6,6 +6,7 @@ ASL,Aberforth Smaller Companies Trust,Investment Trusts,FTSE250,UK,ASL.L
 AEP,AEP Plantations,Food Producers,FTSE250,UK,AEP.L
 ALFA,Alfa Financial Software,Software and Computer Services,FTSE250,UK,ALFA.L
 ATT,Allianz Technology Trust,Investment Trusts,FTSE250,UK,ATT.L
+AMRQ,Amaroq,Industrial Metals and Mining,FTSE250,UK,AMRQ.L
 AO,AO World,Retail,FTSE250,UK,AO.L
 APN,Applied Nutrition,Food Producers,FTSE250,UK,APN.L
 ASHM,Ashmore Group,Financial Services,FTSE250,UK,ASHM.L
@@ -171,7 +172,6 @@ PNN,Pennon Group,"Gas, Water & Multiutilities",FTSE250,UK,PNN.L
 PSN,Persimmon,Household goods & home construction,FTSE250,UK,PSN.L
 PNL,Personal Assets Trust,Investment Trusts,FTSE250,UK,PNL.L
 PETS,Pets at Home,Retailers,FTSE250,UK,PETS.L
-PINE,Pinewood Technologies,Software and Computer Services,FTSE250,UK,PINE.L
 PTEC,Playtech,Software & Computer Services,FTSE250,UK,PTEC.L
 PLUS,Plus500,Financial Services,FTSE250,UK,PLUS.L
 PCGH,Polar Capital Global Healthcare Trust,Investment Trusts,FTSE250,UK,PCGH.L
@@ -203,7 +203,6 @@ SDP,Schroder AsiaPacific Fund,Investment Trusts,FTSE250,UK,SDP.L
 SOI,Schroder Oriental Income Fund,Financial Services,FTSE250,UK,SOI.L
 SAIN,Scottish American Investment Company,Investment Trusts,FTSE250,UK,SAIN.L
 SEIT,SDCL Efficiency Income Trust,Energy,FTSE250,UK,SEIT.L
-SNR,Senior,Aerospace & Defence,FTSE250,UK,SNR.L
 SEQI,Sequoia Economic Infrastructure Income Fund,Financial Services,FTSE250,UK,SEQI.L
 SSIT,Seraphim Space Investment Trust,Investment Trusts,FTSE250,UK,SSIT.L
 SRP,Serco,Support Services,FTSE250,UK,SRP.L
@@ -248,4 +247,5 @@ WKP,Workspace Group,Real Estate Investment Trusts,FTSE250,UK,WKP.L
 WWH,Worldwide Healthcare Trust,Investment Trusts,FTSE250,UK,WWH.L
 XPP,XP Power,Industrial Goods and Services,FTSE250,UK,XPP.L
 XPS,XPS Pensions,Financial Services,FTSE250,UK,XPS.L
+YNGA,Young's,Travel and Leisure,FTSE250,UK,YNGA.L
 ZIG,Zigup,Support Services,FTSE250,UK,ZIG.L

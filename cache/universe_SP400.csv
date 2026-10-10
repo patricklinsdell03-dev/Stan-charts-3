@@ -94,6 +94,7 @@ CRS,Carpenter Technology,Industrials,SP400,US,CRS
 CRUS,Cirrus Logic,Information Technology,SP400,US,CRUS
 CSL,Carlisle Companies,Industrials,SP400,US,CSL
 CTRE,CareTrust REIT,Real Estate,SP400,US,CTRE
+CTVA,Corteva,Materials,SP400,US,CTVA
 CUBE,CubeSmart,Real Estate,SP400,US,CUBE
 CUZ,Cousins Properties,Real Estate,SP400,US,CUZ
 CVLT,CommVault Systems,Information Technology,SP400,US,CVLT
@@ -148,6 +149,7 @@ FN,Fabrinet,Information Technology,SP400,US,FN
 FNB,FNB Corporation,Financials,SP400,US,FNB
 FND,Floor & Decor,Consumer Discretionary,SP400,US,FND
 FNF,Fidelity National Financial,Financials,SP400,US,FNF
+FORM,"FormFactor, Inc.",Information Technology,SP400,US,FORM
 FOUR,Shift4,Financials,SP400,US,FOUR
 FR,First Industrial Realty Trust,Real Estate,SP400,US,FR
 FTI,TechnipFMC,Energy,SP400,US,FTI
@@ -258,7 +260,6 @@ OHI,Omega Healthcare Investors,Real Estate,SP400,US,OHI
 OKTA,"Okta, Inc.",Information Technology,SP400,US,OKTA
 OLED,Universal Display,Information Technology,SP400,US,OLED
 OLLI,Ollie's Bargain Outlet,Consumer Discretionary,SP400,US,OLLI
-OLN,Olin Corporation,Materials,SP400,US,OLN
 ONB,Old National Bank,Financials,SP400,US,ONB
 ONTO,Onto Innovation,Information Technology,SP400,US,ONTO
 OPCH,Option Care Health,Health Care,SP400,US,OPCH
@@ -356,7 +357,6 @@ TRU,TransUnion,Industrials,SP400,US,TRU
 TTC,Toro,Industrials,SP400,US,TTC
 TTEK,Tetra Tech,Industrials,SP400,US,TTEK
 TTMI,TTM Technologies,Information Technology,SP400,US,TTMI
-TWLO,Twilio,Information Technology,SP400,US,TWLO
 TXNM,TXNM Energy,Utilities,SP400,US,TXNM
 TXRH,Texas Roadhouse,Consumer Discretionary,SP400,US,TXRH
 UBSI,United Bankshares,Financials,SP400,US,UBSI

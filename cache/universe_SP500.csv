@@ -127,7 +127,6 @@ COO,Cooper Companies (The),Health Care,SP500,US,COO
 CPRT,Copart,Industrials,SP500,US,CPRT
 GLW,Corning Inc.,Information Technology,SP500,US,GLW
 CPAY,Corpay,Financials,SP500,US,CPAY
-CTVA,Corteva,Materials,SP500,US,CTVA
 CSGP,CoStar Group,Real Estate,SP500,US,CSGP
 COST,Costco,Consumer Staples,SP500,US,COST
 CRH,CRH plc,Materials,SP500,US,CRH
@@ -357,7 +356,6 @@ PCAR,Paccar,Industrials,SP500,US,PCAR
 PKG,Packaging Corporation of America,Materials,SP500,US,PKG
 PLTR,Palantir Technologies,Information Technology,SP500,US,PLTR
 PANW,Palo Alto Networks,Information Technology,SP500,US,PANW
-PSKY,Paramount Skydance Corporation,Communication Services,SP500,US,PSKY
 PH,Parker Hannifin,Industrials,SP500,US,PH
 PAYX,Paychex,Industrials,SP500,US,PAYX
 PYPL,PayPal,Financials,SP500,US,PYPL
@@ -411,6 +409,7 @@ SRE,Sempra,Utilities,SP500,US,SRE
 NOW,ServiceNow,Information Technology,SP500,US,NOW
 SHW,Sherwin-Williams,Materials,SP500,US,SHW
 SPG,Simon Property Group,Real Estate,SP500,US,SPG
+SKYD,Skydance Corporation,Communication Services,SP500,US,SKYD
 SWKS,Skyworks Solutions,Information Technology,SP500,US,SWKS
 SJM,J.M. Smucker Company (The),Consumer Staples,SP500,US,SJM
 SW,Smurfit Westrock,Materials,SP500,US,SW
@@ -450,6 +449,7 @@ TDG,TransDigm Group,Industrials,SP500,US,TDG
 TRV,Travelers Companies (The),Financials,SP500,US,TRV
 TRMB,Trimble Inc.,Information Technology,SP500,US,TRMB
 TFC,Truist Financial,Financials,SP500,US,TFC
+TWLO,Twilio,Information Technology,SP500,US,TWLO
 TYL,Tyler Technologies,Information Technology,SP500,US,TYL
 TSN,Tyson Foods,Consumer Staples,SP500,US,TSN
 USB,U.S. Bancorp,Financials,SP500,US,USB
@@ -477,12 +477,12 @@ V,Visa Inc.,Financials,SP500,US,V
 VST,Vistra Corp.,Utilities,SP500,US,VST
 VMRK,Vivmark Residential,Real Estate,SP500,US,VMRK
 VMC,Vulcan Materials Company,Materials,SP500,US,VMC
+VYLR,Vylor,Consumer Staples,SP500,US,VYLR
 WRB,W. R. Berkley Corporation,Financials,SP500,US,WRB
 GWW,W. W. Grainger,Industrials,SP500,US,GWW
 WAB,Wabtec,Industrials,SP500,US,WAB
 WMT,Walmart,Consumer Staples,SP500,US,WMT
 DIS,Walt Disney Company (The),Communication Services,SP500,US,DIS
-WBD,Warner Bros. Discovery,Communication Services,SP500,US,WBD
 WM,Waste Management,Industrials,SP500,US,WM
 WAT,Waters Corporation,Health Care,SP500,US,WAT
 WEC,WEC Energy Group,Utilities,SP500,US,WEC

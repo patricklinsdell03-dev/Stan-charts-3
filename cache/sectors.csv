@@ -147,6 +147,7 @@ AIM,Healthcare,0
 AIMD,Technology,0
 AIN,Consumer Cyclical,0
 AIO,Financial Services,0
+AIOK,Energy,0
 AIOS,Technology,0
 AIOT,Technology,0
 AIP,Technology,0
@@ -392,6 +393,7 @@ AUST,Basic Materials,0
 AUXX,Basic Materials,0
 AVA,Utilities,0
 AVAH,Healthcare,0
+AVAT,Financial Services,0
 AVBC,Financial Services,0
 AVBH,Financial Services,0
 AVBP,Healthcare,0
@@ -453,6 +455,7 @@ BATRK,Communication Services,0
 BB,Technology,0
 BBAI,Technology,0
 BBAR,Financial Services,0
+BBCI,__FAILED__,1
 BBCP,Industrials,0
 BBDC,Financial Services,0
 BBGI,Communication Services,0
@@ -488,6 +491,7 @@ BCSS,Financial Services,0
 BCTX,Healthcare,0
 BCV,Financial Services,0
 BCX,Financial Services,0
+BDAI,__FAILED__,1
 BDCI,Financial Services,0
 BDCZ,__FAILED__,1
 BDJ,Financial Services,0
@@ -767,6 +771,7 @@ CATO,Consumer Cyclical,0
 CATX,Healthcare,0
 CATY,Financial Services,0
 CBAN,Financial Services,0
+CBAT,Industrials,0
 CBC,Financial Services,0
 CBFV,Financial Services,0
 CBIO,Healthcare,0
@@ -1379,6 +1384,7 @@ EPAM,Technology,0
 EPC,Consumer Defensive,0
 EPD,Energy,0
 EPM,Energy,0
+EPOW,Industrials,0
 EPRT,Real Estate,0
 EPRX,Healthcare,0
 EPSM,Consumer Defensive,0
@@ -2910,6 +2916,7 @@ OKLO,Utilities,0
 OKUR,Healthcare,0
 OKYO,Healthcare,0
 OLMA,Healthcare,0
+OLN,Basic Materials,0
 OLOX,Industrials,0
 OLP,Real Estate,0
 OM,Healthcare,0
@@ -2947,6 +2954,7 @@ OPTX,Technology,0
 OPXS,Industrials,0
 OPY,Financial Services,0
 OR,Basic Materials,0
+ORBS,Consumer Cyclical,0
 ORC,Real Estate,0
 ORGO,Healthcare,0
 ORIC,Healthcare,0
@@ -3371,6 +3379,7 @@ RSKD,Technology,0
 RSSS,Technology,0
 RSVR,Communication Services,0
 RTB,Technology,0
+RTSN,__FAILED__,1
 RUBI,Industrials,0
 RUM,Communication Services,0
 RUN,Technology,0
@@ -3433,6 +3442,7 @@ SBSI,Financial Services,0
 SBSW,Basic Materials,0
 SBXD,Financial Services,0
 SBXE,Financial Services,0
+SCAT,Financial Services,0
 SCCO,Basic Materials,0
 SCE-L,__FAILED__,1
 SCHL,Communication Services,0
@@ -3736,6 +3746,7 @@ TAYD,Industrials,0
 TBBB,Consumer Defensive,0
 TBBK,Financial Services,0
 TBCH,Technology,0
+TBCV,Financial Services,0
 TBI,Industrials,0
 TBLA,Communication Services,0
 TBN,Energy,0
@@ -3875,6 +3886,7 @@ TRTX,Real Estate,0
 TRUP,Financial Services,0
 TRVI,Healthcare,0
 TRX,Basic Materials,0
+TRXB,Healthcare,0
 TSAT,Technology,0
 TSBK,Financial Services,0
 TSEM,Technology,0
@@ -3991,6 +4003,7 @@ VCV,Financial Services,0
 VCX,Financial Services,0
 VCYT,Healthcare,0
 VECO,Technology,0
+VEEA,Technology,0
 VEEE,Consumer Cyclical,0
 VEL,Financial Services,0
 VELO,Technology,0
@@ -4022,6 +4035,7 @@ VISN,Technology,0
 VITL,Consumer Defensive,0
 VIVK,Energy,0
 VIVO,Technology,0
+VJET,Industrials,0
 VKQ,Financial Services,0
 VKTX,Healthcare,0
 VLGEA,Consumer Defensive,0
@@ -4135,8 +4149,10 @@ WOK,Healthcare,0
 WOLF,Technology,0
 WOOF,Consumer Cyclical,0
 WOR,Industrials,0
+WORX,Healthcare,0
 WPM,Basic Materials,0
 WPRT,Consumer Cyclical,0
+WQEY,Technology,0
 WRAP,Technology,0
 WRBY,Healthcare,0
 WRLD,Financial Services,0
