@@ -225,6 +225,7 @@ AMPX,Industrials,0
 AMPY,Energy,0
 AMR,Basic Materials,0
 AMRC,Industrials,0
+AMRO,Basic Materials,0
 AMRX,Healthcare,0
 AMRZ,Basic Materials,0
 AMS,Healthcare,0
@@ -420,6 +421,7 @@ AXG,Financial Services,0
 AXGN,Healthcare,0
 AXIL,Technology,0
 AXIN,Financial Services,0
+AXNX,Industrials,0
 AXR,Real Estate,0
 AXS,Financial Services,0
 AXSM,Healthcare,0
@@ -527,6 +529,7 @@ BGDE,Financial Services,0
 BGH,Financial Services,0
 BGIN,Technology,0
 BGLC,Basic Materials,0
+BGM,Healthcare,0
 BGMS,Industrials,0
 BGR,Financial Services,0
 BGS,Consumer Defensive,0
@@ -603,6 +606,7 @@ BMGL,Healthcare,0
 BMHL,Financial Services,0
 BMI,Technology,0
 BMM,Basic Materials,0
+BMMX,Basic Materials,0
 BMN,Financial Services,0
 BMNR,Financial Services,0
 BMO,Financial Services,0
@@ -690,6 +694,7 @@ BTE,Energy,0
 BTG,Basic Materials,0
 BTGO,Financial Services,0
 BTI,Consumer Defensive,0
+BTLN,Technology,0
 BTMD,Healthcare,0
 BTO,Financial Services,0
 BTOG,Financial Services,0
@@ -1073,6 +1078,7 @@ CTRM,Industrials,0
 CTRN,Consumer Cyclical,0
 CTS,Technology,0
 CTW,Communication Services,0
+CTY,Healthcare,0
 CUB,Financial Services,0
 CUBI,Financial Services,0
 CUE,Healthcare,0
@@ -1191,6 +1197,7 @@ DLO,Technology,0
 DLPN,Communication Services,0
 DLTH,Consumer Cyclical,0
 DLX,Industrials,0
+DLXY,Energy,0
 DLY,Financial Services,0
 DMA,Financial Services,0
 DMAA,Financial Services,0
@@ -1472,6 +1479,7 @@ FATE,Healthcare,0
 FATN,Technology,0
 FAX,Financial Services,0
 FBDT,Industrials,0
+FBGL,Industrials,0
 FBIO,Healthcare,0
 FBIZ,Financial Services,0
 FBK,Financial Services,0
@@ -2005,6 +2013,7 @@ IACQ,Financial Services,0
 IAE,Financial Services,0
 IAF,Financial Services,0
 IAG,Basic Materials,0
+IAM,Healthcare,0
 IART,Healthcare,0
 IAUX,Basic Materials,0
 IBAC,Financial Services,0
@@ -2521,6 +2530,7 @@ MDWD,Healthcare,0
 MDXG,Healthcare,0
 MEC,Industrials,0
 MED,Consumer Cyclical,0
+MEDS,Healthcare,0
 MEGI,Financial Services,0
 MEGL,Financial Services,0
 MEI,Technology,0
@@ -2652,6 +2662,7 @@ MTC,Financial Services,0
 MTCH,Communication Services,0
 MTEK,Technology,0
 MTEN,Industrials,0
+MTEX,Consumer Defensive,0
 MTH,Consumer Cyclical,0
 MTNB,Healthcare,0
 MTNE,Financial Services,0
@@ -2684,6 +2695,7 @@ MYGN,Healthcare,0
 MYI,Financial Services,0
 MYN,Financial Services,0
 MYO,Healthcare,0
+MYPS,Communication Services,0
 MYRG,Industrials,0
 MYSE,Technology,0
 MYSZ,Consumer Cyclical,0
@@ -2933,6 +2945,7 @@ ONEN,Utilities,0
 ONEW,Consumer Cyclical,0
 ONIT,Financial Services,0
 ONL,Real Estate,0
+ONMD,Healthcare,0
 ONON,Consumer Cyclical,0
 ONT,Industrials,0
 OOMA,Technology,0
@@ -3231,6 +3244,7 @@ QNTM,Healthcare,0
 QRHC,Industrials,0
 QRVO,Technology,0
 QS,Consumer Cyclical,0
+QSI,Healthcare,0
 QSR,Consumer Cyclical,0
 QTEX,Technology,0
 QTI,Healthcare,0
@@ -3354,6 +3368,7 @@ RNAZ,Healthcare,0
 RNG,Technology,0
 RNGR,Energy,0
 RNST,Financial Services,0
+RNTZ,Technology,0
 RNW,Utilities,0
 RNXT,Healthcare,0
 ROC,__FAILED__,1
@@ -3935,6 +3950,7 @@ UAA,Consumer Cyclical,0
 UAVS,Technology,0
 UBS,Financial Services,0
 UCAR,Consumer Cyclical,0
+UCFI,Consumer Defensive,0
 UCTT,Technology,0
 UEC,Energy,0
 UEIC,Technology,0
@@ -4212,6 +4228,7 @@ XPOF,Consumer Cyclical,0
 XPON,Industrials,0
 XPRO,Energy,0
 XRN,Real Estate,0
+XRPN,Financial Services,0
 XRTX,Healthcare,0
 XRX,Industrials,0
 XTND,__FAILED__,1
