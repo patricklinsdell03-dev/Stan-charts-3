@@ -1136,6 +1136,7 @@ DAIO,Technology,0
 DAKT,Technology,0
 DAN,Consumer Cyclical,0
 DAVE,Technology,0
+DAVI,Healthcare,0
 DB,Financial Services,0
 DBCA,Financial Services,0
 DBD,Technology,0
@@ -1149,6 +1150,7 @@ DBRG-J,__FAILED__,1
 DC,Basic Materials,0
 DCBO,Technology,0
 DCH,Consumer Cyclical,0
+DCM,Technology,0
 DCO,Industrials,0
 DCOM,Financial Services,0
 DCOY,Healthcare,0
@@ -2155,6 +2157,7 @@ IRDM,Communication Services,0
 IREN,Financial Services,0
 IRHO,Financial Services,0
 IRIX,Healthcare,0
+IRLA,Healthcare,0
 IRMD,Healthcare,0
 IRON,Healthcare,0
 IRTC,Healthcare,0
@@ -2167,6 +2170,7 @@ ISTR,Financial Services,0
 ITG,Industrials,0
 ITGR,Healthcare,0
 ITIC,Financial Services,0
+ITOC,Healthcare,0
 ITP,Basic Materials,0
 ITRG,Basic Materials,0
 ITRI,Technology,0
@@ -2345,6 +2349,7 @@ LCII,Consumer Cyclical,0
 LCLN,Financial Services,0
 LCNB,Financial Services,0
 LCTX,Healthcare,0
+LCU,Basic Materials,0
 LCUT,Consumer Cyclical,0
 LDI,Financial Services,0
 LE,Consumer Cyclical,0
@@ -2460,6 +2465,7 @@ LXFR,Industrials,0
 LXP,Real Estate,0
 LXRX,Healthcare,0
 LXU,Basic Materials,0
+LYCA,Healthcare,0
 LYEL,Healthcare,0
 LYFT,Technology,0
 LYNX,Industrials,0
@@ -2707,6 +2713,7 @@ NAK,Basic Materials,0
 NAKA,Financial Services,0
 NAMM,Basic Materials,0
 NAMS,Healthcare,0
+NANO,Technology,0
 NAT,Energy,0
 NATH,Consumer Cyclical,0
 NATL,Technology,0
@@ -3464,6 +3471,7 @@ SCHL,Communication Services,0
 SCL,Basic Materials,0
 SCLX,Healthcare,0
 SCM,Financial Services,0
+SCNX,Healthcare,0
 SCOR,Technology,0
 SCPQ,Financial Services,0
 SCSC,Technology,0
@@ -3771,6 +3779,7 @@ TCBS,Financial Services,0
 TCBX,Financial Services,0
 TCI,Real Estate,0
 TCMD,Healthcare,0
+TCRT,Healthcare,0
 TCRX,Healthcare,0
 TCX,Technology,0
 TD,Financial Services,0
@@ -4004,6 +4013,7 @@ UVE,Financial Services,0
 UVSP,Financial Services,0
 UVV,Consumer Defensive,0
 UWMC,Financial Services,0
+UZX,Consumer Cyclical,0
 VABK,Financial Services,0
 VAC,Consumer Cyclical,0
 VALU,Financial Services,0
@@ -4044,6 +4054,7 @@ VIA,Technology,0
 VIDA,Technology,0
 VIK,Consumer Cyclical,0
 VINP,Financial Services,0
+VIP,Financial Services,0
 VIR,Healthcare,0
 VIRC,Consumer Cyclical,0
 VIRT,Financial Services,0
@@ -4231,6 +4242,7 @@ XRN,Real Estate,0
 XRPN,Financial Services,0
 XRTX,Healthcare,0
 XRX,Industrials,0
+XTIA,Industrials,0
 XTND,__FAILED__,1
 XTNT,Healthcare,0
 XWEL,Healthcare,0
