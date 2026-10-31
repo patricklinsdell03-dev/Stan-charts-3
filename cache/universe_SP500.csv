@@ -374,18 +374,17 @@ PG,Procter & Gamble,Consumer Staples,SP500,US,PG
 PGR,Progressive Corporation,Financials,SP500,US,PGR
 PLD,Prologis,Real Estate,SP500,US,PLD
 PRU,Prudential Financial,Financials,SP500,US,PRU
-PEG,Public Service Enterprise Group,Utilities,SP500,US,PEG
 PTC,PTC Inc.,Information Technology,SP500,US,PTC
+PEG,Public Service Enterprise Group,Utilities,SP500,US,PEG
 PSA,Public Storage,Real Estate,SP500,US,PSA
 PHM,PulteGroup,Consumer Discretionary,SP500,US,PHM
-PWR,Quanta Services,Industrials,SP500,US,PWR
-QCOM,Qualcomm,Information Technology,SP500,US,QCOM
-DGX,Quest Diagnostics,Health Care,SP500,US,DGX
 Q,Qnity Electronics,Information Technology,SP500,US,Q
+QCOM,Qualcomm,Information Technology,SP500,US,QCOM
+PWR,Quanta Services,Industrials,SP500,US,PWR
+DGX,Quest Diagnostics,Health Care,SP500,US,DGX
 RL,Ralph Lauren Corporation,Consumer Discretionary,SP500,US,RL
 RJF,Raymond James Financial,Financials,SP500,US,RJF
 RDDT,Reddit,Communication Services,SP500,US,RDDT
-RTX,RTX Corporation,Industrials,SP500,US,RTX
 O,Realty Income,Real Estate,SP500,US,O
 REG,Regency Centers,Real Estate,SP500,US,REG
 REGN,Regeneron Pharmaceuticals,Health Care,SP500,US,REGN
@@ -399,6 +398,7 @@ ROL,"Rollins, Inc.",Industrials,SP500,US,ROL
 ROP,Roper Technologies,Information Technology,SP500,US,ROP
 ROST,Ross Stores,Consumer Discretionary,SP500,US,ROST
 RCL,Royal Caribbean Group,Consumer Discretionary,SP500,US,RCL
+RTX,RTX Corporation,Industrials,SP500,US,RTX
 SPGI,S&P Global,Financials,SP500,US,SPGI
 CRM,Salesforce,Information Technology,SP500,US,CRM
 SNDK,Sandisk,Information Technology,SP500,US,SNDK
@@ -409,7 +409,7 @@ SRE,Sempra,Utilities,SP500,US,SRE
 NOW,ServiceNow,Information Technology,SP500,US,NOW
 SHW,Sherwin-Williams,Materials,SP500,US,SHW
 SPG,Simon Property Group,Real Estate,SP500,US,SPG
-SKYD,Skydance Corporation,Communication Services,SP500,US,SKYD
+SKYD,Skydance,Communication Services,SP500,US,SKYD
 SWKS,Skyworks Solutions,Information Technology,SP500,US,SWKS
 SJM,J.M. Smucker Company (The),Consumer Staples,SP500,US,SJM
 SW,Smurfit Westrock,Materials,SP500,US,SW

@@ -98,6 +98,7 @@ AER,Industrials,0
 AERT,Industrials,0
 AESI,Energy,0
 AESP,Financial Services,0
+AETR,Consumer Cyclical,0
 AEVA,Technology,0
 AEXA,Financial Services,0
 AEYE,Technology,0
@@ -337,6 +338,7 @@ ASMB,Healthcare,0
 ASML,Technology,0
 ASND,Healthcare,0
 ASO,Consumer Cyclical,0
+ASPE,Healthcare,0
 ASPI,Basic Materials,0
 ASPN,Basic Materials,0
 ASPS,Real Estate,0
@@ -431,6 +433,7 @@ AYTU,Healthcare,0
 AZ,Technology,0
 AZI,Consumer Cyclical,0
 AZN,Healthcare,0
+AZR,Healthcare,0
 AZTA,Healthcare,0
 AZTR,Healthcare,0
 AZZ,Industrials,0
@@ -468,6 +471,7 @@ BBNX,Healthcare,0
 BBOT,Healthcare,0
 BBSI,Industrials,0
 BBT,Financial Services,0
+BBTX,Healthcare,0
 BBUC,Industrials,0
 BBVA,Financial Services,0
 BBW,Consumer Cyclical,0
@@ -697,6 +701,7 @@ BTI,Consumer Defensive,0
 BTLN,Technology,0
 BTMD,Healthcare,0
 BTO,Financial Services,0
+BTOC,Industrials,0
 BTOG,Financial Services,0
 BTQ,Technology,0
 BTT,Financial Services,0
@@ -1169,6 +1174,7 @@ DETX,Industrials,0
 DFDV,Financial Services,0
 DFH,Consumer Cyclical,0
 DFIN,Technology,0
+DFNS,Industrials,0
 DFSC,Industrials,0
 DFTX,Healthcare,0
 DGAC,Financial Services,0
@@ -1496,6 +1502,7 @@ FCAP,Financial Services,0
 FCBC,Financial Services,0
 FCBM,Financial Services,0
 FCCO,Financial Services,0
+FCDH,Communication Services,0
 FCEL,Industrials,0
 FCF,Financial Services,0
 FCNCA,Financial Services,0
@@ -1520,6 +1527,7 @@ FFA,Financial Services,0
 FFAI,Consumer Cyclical,0
 FFBC,Financial Services,0
 FFR,Technology,0
+FFTT,Industrials,0
 FG,Financial Services,0
 FGBI,Financial Services,0
 FGC,Financial Services,0
@@ -1576,6 +1584,7 @@ FNGO,__FAILED__,1
 FNKO,Consumer Cyclical,0
 FNLC,Financial Services,0
 FNRN,Financial Services,0
+FNUC,Basic Materials,0
 FNV,Basic Materials,0
 FNWB,Financial Services,0
 FNWD,Financial Services,0
@@ -1675,6 +1684,7 @@ GASS,Industrials,0
 GAU,Basic Materials,0
 GAUZ,Technology,0
 GBAB,Financial Services,0
+GBC,Financial Services,0
 GBDC,Financial Services,0
 GBFH,Financial Services,0
 GBLI,Financial Services,0
@@ -2656,7 +2666,9 @@ MSD,Financial Services,0
 MSDL,Financial Services,0
 MSEX,Utilities,0
 MSGE,Communication Services,0
+MSGK,Communication Services,0
 MSGM,Communication Services,0
+MSGR,Communication Services,0
 MSGS,Communication Services,0
 MSGY,Industrials,0
 MSLE,Healthcare,0
@@ -2812,6 +2824,7 @@ NOEM,Financial Services,0
 NOG,Energy,0
 NOMA,Consumer Cyclical,0
 NOMD,Consumer Defensive,0
+NORD,Industrials,0
 NP,Financial Services,0
 NPB,Financial Services,0
 NPCE,Healthcare,0
@@ -2885,6 +2898,7 @@ NXB,Consumer Cyclical,0
 NXDR,Communication Services,0
 NXDT,Real Estate,0
 NXE,Energy,0
+NXGL,Healthcare,0
 NXH,Consumer Cyclical,0
 NXP,Financial Services,0
 NXPL,Technology,0
@@ -3210,6 +3224,7 @@ PTCT,Healthcare,0
 PTEN,Energy,0
 PTGX,Healthcare,0
 PTHS,Healthcare,0
+PTIV,Financial Services,0
 PTLE,Consumer Cyclical,0
 PTLO,Consumer Cyclical,0
 PTN,Healthcare,0
@@ -3560,6 +3575,7 @@ SITE,Industrials,0
 SJ,Communication Services,0
 SKE,Basic Materials,0
 SKIL,Consumer Defensive,0
+SKIN,Consumer Defensive,0
 SKK,Industrials,0
 SKM,Communication Services,0
 SKT,Real Estate,0
