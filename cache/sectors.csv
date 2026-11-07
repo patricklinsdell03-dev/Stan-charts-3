@@ -117,6 +117,7 @@ AGI,Basic Materials,0
 AGIG,Utilities,0
 AGIO,Healthcare,0
 AGL,Healthcare,0
+AGLT,Technology,0
 AGM,Financial Services,0
 AGM-A,Financial Services,0
 AGMB,Healthcare,0
@@ -432,6 +433,7 @@ AYA,Basic Materials,0
 AYTU,Healthcare,0
 AZ,Technology,0
 AZI,Consumer Cyclical,0
+AZIO,Technology,0
 AZN,Healthcare,0
 AZR,Healthcare,0
 AZTA,Healthcare,0
@@ -769,12 +771,14 @@ CAMP,Healthcare,0
 CAMT,Technology,0
 CANG,Financial Services,0
 CAPR,Healthcare,0
+CAPS,Basic Materials,0
 CAQ,Financial Services,0
 CARE,Financial Services,0
 CARG,Consumer Cyclical,0
 CARL,Healthcare,0
 CARS,Communication Services,0
 CASH,Financial Services,0
+CASK,__FAILED__,1
 CASS,Industrials,0
 CAST,Communication Services,0
 CATO,Consumer Cyclical,0
@@ -823,6 +827,7 @@ CCXI,Financial Services,0
 CCZ,__FAILED__,1
 CD,Financial Services,0
 CDIO,Healthcare,0
+CDLR,Industrials,0
 CDLX,Communication Services,0
 CDNA,Healthcare,0
 CDNL,Industrials,0
@@ -1185,6 +1190,7 @@ DGNX,Industrials,0
 DGP,__FAILED__,1
 DGXX,Utilities,0
 DGZ,__FAILED__,1
+DH,Healthcare,0
 DHC,Real Estate,0
 DHF,Financial Services,0
 DHT,Energy,0
@@ -1761,6 +1767,7 @@ GLAS,Healthcare,0
 GLBE,Consumer Cyclical,0
 GLBS,Industrials,0
 GLDG,Basic Materials,0
+GLE,Technology,0
 GLED,Financial Services,0
 GLIBA,Communication Services,0
 GLIBK,Communication Services,0
@@ -2285,6 +2292,7 @@ KMT,Industrials,0
 KMTS,Healthcare,0
 KMX,Consumer Cyclical,0
 KN,Technology,0
+KNDI,Consumer Cyclical,0
 KNRX,Technology,0
 KNSA,Healthcare,0
 KNTK,Energy,0
@@ -2726,6 +2734,7 @@ NAKA,Financial Services,0
 NAMM,Basic Materials,0
 NAMS,Healthcare,0
 NANO,Technology,0
+NARA,Financial Services,0
 NAT,Energy,0
 NATH,Consumer Cyclical,0
 NATL,Technology,0
@@ -3165,6 +3174,7 @@ POAS,Healthcare,0
 POCI,Healthcare,0
 PODC,Communication Services,0
 POET,Technology,0
+POLA,Industrials,0
 PONO,Financial Services,0
 POOL,Industrials,0
 POWI,Technology,0
@@ -3508,6 +3518,7 @@ SEDG,Technology,0
 SEED,Basic Materials,0
 SEER,Healthcare,0
 SEG,Real Estate,0
+SEGG,Consumer Cyclical,0
 SEI,Energy,0
 SELF,Real Estate,0
 SENEA,Consumer Defensive,0
@@ -3646,6 +3657,7 @@ SOAR,Industrials,0
 SOBO,Energy,0
 SOC,Energy,0
 SOFI,Financial Services,0
+SONM,Financial Services,0
 SONO,Technology,0
 SOPH,Healthcare,0
 SOR,Financial Services,0
@@ -4258,6 +4270,7 @@ XRN,Real Estate,0
 XRPN,Financial Services,0
 XRTX,Healthcare,0
 XRX,Industrials,0
+XTER,Financial Services,0
 XTIA,Industrials,0
 XTND,__FAILED__,1
 XTNT,Healthcare,0

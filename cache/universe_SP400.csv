@@ -149,7 +149,7 @@ FN,Fabrinet,Information Technology,SP400,US,FN
 FNB,FNB Corporation,Financials,SP400,US,FNB
 FND,Floor & Decor,Consumer Discretionary,SP400,US,FND
 FNF,Fidelity National Financial,Financials,SP400,US,FNF
-FORM,"FormFactor, Inc.",Information Technology,SP400,US,FORM
+FORM,FormFactor,Information Technology,SP400,US,FORM
 FOUR,Shift4,Financials,SP400,US,FOUR
 FR,First Industrial Realty Trust,Real Estate,SP400,US,FR
 FTI,TechnipFMC,Energy,SP400,US,FTI
@@ -160,6 +160,7 @@ GBCI,Glacier Bancorp,Financials,SP400,US,GBCI
 GEF,"Greif, Inc.",Materials,SP400,US,GEF
 GGG,Graco Inc.,Industrials,SP400,US,GGG
 GHC,Graham Holdings,Consumer Discretionary,SP400,US,GHC
+GKOS,Glaukos,Health Care,SP400,US,GKOS
 GLPI,Gaming and Leisure Properties,Real Estate,SP400,US,GLPI
 GME,GameStop,Consumer Discretionary,SP400,US,GME
 GMED,Globus Medical,Health Care,SP400,US,GMED
@@ -257,7 +258,6 @@ OC,Owens Corning,Industrials,SP400,US,OC
 OGE,OGE Energy,Utilities,SP400,US,OGE
 OGS,One Gas,Utilities,SP400,US,OGS
 OHI,Omega Healthcare Investors,Real Estate,SP400,US,OHI
-OKTA,"Okta, Inc.",Information Technology,SP400,US,OKTA
 OLED,Universal Display,Information Technology,SP400,US,OLED
 OLLI,Ollie's Bargain Outlet,Consumer Discretionary,SP400,US,OLLI
 ONB,Old National Bank,Financials,SP400,US,ONB
