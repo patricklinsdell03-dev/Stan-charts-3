@@ -382,6 +382,7 @@ ATS,Industrials,0
 ATTO,Healthcare,0
 ATTT,Consumer Defensive,0
 ATXG,Industrials,0
+ATYR,Healthcare,0
 AU,Basic Materials,0
 AUB,Financial Services,0
 AUBN,Financial Services,0
@@ -981,6 +982,7 @@ CNXC,Technology,0
 CNXN,Technology,0
 CNXU,Healthcare,0
 COAG,Healthcare,0
+COCH,Healthcare,0
 COCO,Consumer Defensive,0
 COCP,Healthcare,0
 CODA,Industrials,0
@@ -1043,6 +1045,7 @@ CRIS,Healthcare,0
 CRK,Energy,0
 CRMD,Healthcare,0
 CRML,Basic Materials,0
+CRMN,Industrials,0
 CRMT,Consumer Cyclical,0
 CRNC,Technology,0
 CRNT,Technology,0
@@ -1943,6 +1946,7 @@ HIVE,Financial Services,0
 HIW,Real Estate,0
 HIX,Financial Services,0
 HKIT,Technology,0
+HKPD,Healthcare,0
 HLF,Consumer Defensive,0
 HLIO,Industrials,0
 HLIT,Technology,0
@@ -2548,6 +2552,7 @@ MDBH,Financial Services,0
 MDGL,Healthcare,0
 MDIA,Communication Services,0
 MDLN,Healthcare,0
+MDRN,Industrials,0
 MDRR,Real Estate,0
 MDU,Utilities,0
 MDWD,Healthcare,0
@@ -2965,6 +2970,7 @@ OM,Healthcare,0
 OMCL,Healthcare,0
 OMDA,Healthcare,0
 OMER,Healthcare,0
+OMEX,Basic Materials,0
 OMF,Financial Services,0
 OMH,Real Estate,0
 OMSE,Energy,0
@@ -2985,6 +2991,7 @@ OPBK,Financial Services,0
 OPEN,Real Estate,0
 OPFI,Financial Services,0
 OPHC,Financial Services,0
+OPHI,Healthcare,0
 OPK,Healthcare,0
 OPLN,Consumer Cyclical,0
 OPNW,Technology,0
@@ -3287,6 +3294,7 @@ QUAD,Industrials,0
 QUBT,Technology,0
 QUCY,Healthcare,0
 QUIK,Technology,0
+QUIT,Healthcare,0
 QURE,Healthcare,0
 QVCG,Consumer Cyclical,0
 QXL,Technology,0
@@ -3889,6 +3897,7 @@ TNGX,Healthcare,0
 TNK,Energy,0
 TNON,Healthcare,0
 TNXP,Healthcare,0
+TOMZ,Industrials,0
 TONT,Financial Services,0
 TONX,Technology,0
 TOON,Communication Services,0
@@ -3975,6 +3984,7 @@ TWIN,Industrials,0
 TWLV,Financial Services,0
 TWN,Financial Services,0
 TWST,Healthcare,0
+TXCP,Financial Services,0
 TXG,Healthcare,0
 TXMD,Healthcare,0
 TY,Financial Services,0
@@ -4140,6 +4150,7 @@ VTSI,Technology,0
 VTVT,Healthcare,0
 VUZI,Technology,0
 VVR,Financial Services,0
+VVVV,Healthcare,0
 VVX,Industrials,0
 VWAV,Industrials,0
 VYGR,Healthcare,0
@@ -4232,6 +4243,7 @@ WULF,Financial Services,0
 WVE,Healthcare,0
 WVVI,Consumer Defensive,0
 WW,Healthcare,0
+WWB,Healthcare,0
 WWR,Basic Materials,0
 WWW,Consumer Cyclical,0
 WXM,Industrials,0
@@ -4249,6 +4261,7 @@ XERS,Healthcare,0
 XFLH,Financial Services,0
 XFOR,Healthcare,0
 XGN,Healthcare,0
+XGPU,Financial Services,0
 XHLD,Communication Services,0
 XHR,Real Estate,0
 XIII,__FAILED__,1
@@ -4330,4 +4343,5 @@ ZVRA,Healthcare,0
 ZWS,Industrials,0
 ZYBT,Healthcare,0
 ZYME,Healthcare,0
+ZYN,Consumer Cyclical,0
 nan,__FAILED__,1
