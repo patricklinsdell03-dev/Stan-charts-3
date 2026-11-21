@@ -197,6 +197,7 @@ ALNY,Healthcare,0
 ALOV,Financial Services,0
 ALOY,Basic Materials,0
 ALP,Financial Services,0
+ALPS,__FAILED__,1
 ALPX,Financial Services,0
 ALRM,Technology,0
 ALRS,Financial Services,0
@@ -254,6 +255,7 @@ ANNA,Energy,0
 ANNX,Healthcare,0
 ANPA,Industrials,0
 ANRO,Healthcare,0
+ANT,Technology,0
 ANTA,Financial Services,0
 ANTX,Healthcare,0
 ANVS,Healthcare,0
@@ -1142,6 +1144,7 @@ CZFS,Financial Services,0
 CZNC,Financial Services,0
 CZR,Consumer Cyclical,0
 CZWI,Financial Services,0
+CZZL,Consumer Defensive,0
 DAAQ,Financial Services,0
 DAC,Industrials,0
 DAIC,Technology,0
@@ -1582,6 +1585,7 @@ FLYX,Industrials,0
 FMAC,Financial Services,0
 FMAO,Financial Services,0
 FMBH,Financial Services,0
+FMBM,Financial Services,0
 FMC,Basic Materials,0
 FMN,Financial Services,0
 FMNB,Financial Services,0
@@ -1874,6 +1878,7 @@ GTN-A,Communication Services,0
 GTX,Consumer Cyclical,0
 GTY,Real Estate,0
 GUAC,Financial Services,0
+GUER,Technology,0
 GUG,Financial Services,0
 GURE,Basic Materials,0
 GUT,Financial Services,0
@@ -2549,6 +2554,7 @@ MD,Healthcare,0
 MDAI,Healthcare,0
 MDB,Technology,0
 MDBH,Financial Services,0
+MDCX,Healthcare,0
 MDGL,Healthcare,0
 MDIA,Communication Services,0
 MDLN,Healthcare,0
@@ -3060,6 +3066,7 @@ PARA,Technology,0
 PARK,Healthcare,0
 PARR,Energy,0
 PASG,Healthcare,0
+PASW,Consumer Cyclical,0
 PATK,Consumer Cyclical,0
 PAVM,Healthcare,0
 PAVS,Consumer Defensive,0
@@ -3895,6 +3902,7 @@ TNDM,Healthcare,0
 TNET,Industrials,0
 TNGX,Healthcare,0
 TNK,Energy,0
+TNMG,Communication Services,0
 TNON,Healthcare,0
 TNXP,Healthcare,0
 TOMZ,Industrials,0
@@ -3987,6 +3995,7 @@ TWST,Healthcare,0
 TXCP,Financial Services,0
 TXG,Healthcare,0
 TXMD,Healthcare,0
+TXR,Basic Materials,0
 TY,Financial Services,0
 TYG,Financial Services,0
 TYGO,Technology,0
@@ -4001,6 +4010,7 @@ UCFI,Consumer Defensive,0
 UCTT,Technology,0
 UEC,Energy,0
 UEIC,Technology,0
+UFG,Industrials,0
 UFI,Consumer Cyclical,0
 UFPT,Healthcare,0
 UHAL,Industrials,0
@@ -4129,6 +4139,7 @@ VREX,Healthcare,0
 VRM,Financial Services,0
 VRNS,Technology,0
 VRRM,Technology,0
+VRSA,Financial Services,0
 VRTS,Financial Services,0
 VRXA,Healthcare,0
 VS,Technology,0
@@ -4330,6 +4341,7 @@ ZKIN,Basic Materials,0
 ZM,Technology,0
 ZNB,Communication Services,0
 ZNTL,Healthcare,0
+ZOAR,Healthcare,0
 ZONE,Industrials,0
 ZOOZ,Industrials,0
 ZS,Technology,0

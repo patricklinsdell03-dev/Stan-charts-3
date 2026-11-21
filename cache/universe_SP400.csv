@@ -47,7 +47,6 @@ BHF,Brighthouse Financial,Financials,SP400,US,BHF
 BILL,Bill Holdings,Information Technology,SP400,US,BILL
 BIO,Bio-Rad Laboratories,Health Care,SP400,US,BIO
 BJ,BJ's Wholesale Club,Consumer Staples,SP400,US,BJ
-BKH,Black Hills Corporation,Utilities,SP400,US,BKH
 BMRN,BioMarin Pharmaceutical,Health Care,SP400,US,BMRN
 BRKR,Bruker,Health Care,SP400,US,BRKR
 BROS,Dutch Bros Inc.,Consumer Discretionary,SP400,US,BROS
@@ -76,6 +75,7 @@ CHE,Chemed Corp.,Health Care,SP400,US,CHE
 CHH,Choice Hotels,Consumer Discretionary,SP400,US,CHH
 CHRD,Chord Energy,Energy,SP400,US,CHRD
 CHWY,Chewy,Consumer Discretionary,SP400,US,CHWY
+CHYM,Chime Financial,Financials,SP400,US,CHYM
 CLF,Cleveland-Cliffs,Materials,SP400,US,CLF
 CLH,Clean Harbors,Industrials,SP400,US,CLH
 CMC,Commercial Metals,Materials,SP400,US,CMC
@@ -184,6 +184,7 @@ HRB,H&R Block,Consumer Discretionary,SP400,US,HRB
 HUBS,HubSpot,Information Technology,SP400,US,HUBS
 HWC,Hancock Whitney,Financials,SP400,US,HWC
 HXL,Hexcel,Industrials,SP400,US,HXL
+HZN,Bright Horizon Energy Corporation,Utilities,SP400,US,HZN
 IBOC,Intl Bancshares Corp,Financials,SP400,US,IBOC
 IDA,Idacorp,Utilities,SP400,US,IDA
 IDCC,InterDigital,Information Technology,SP400,US,IDCC
@@ -251,7 +252,6 @@ NOVT,Novanta,Information Technology,SP400,US,NOVT
 NTNX,Nutanix,Information Technology,SP400,US,NTNX
 NVST,Envista Holdings,Health Care,SP400,US,NVST
 NVT,nVent Electric plc,Industrials,SP400,US,NVT
-NWE,NorthWestern Energy,Utilities,SP400,US,NWE
 NXST,Nexstar Media Group,Communication Services,SP400,US,NXST
 NXT,Nextpower,Industrials,SP400,US,NXT
 NYT,New York Times Company,Communication Services,SP400,US,NYT
